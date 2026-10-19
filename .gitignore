@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.*
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Temporary
+*.tmp
+*.log
+
+# Test generated inference results
+# NOTE:
+# We intentionally KEEP selected portfolio result examples if committed manually.
+tests/results/*
+!tests/results/.gitkeep
