@@ -1,0 +1,26 @@
+{
+  "mounted_rows": 6150,
+  "readable_images": 6150,
+  "unreadable_images": 0,
+  "duplicate_hash_groups": 0,
+  "conflicting_duplicate_hash_groups": 0,
+  "rows_after_exact_dedup_and_conflict_removal": 6150,
+  "split": {
+    "train": 4305,
+    "val": 922,
+    "test": 923
+  },
+  "mounted_label_counts": {
+    "Damaged": 317,
+    "Dried": 1389,
+    "Old": 2044,
+    "Ripe": 1787,
+    "Unripe": 613
+  },
+  "mounted_crop_counts": {
+    "Bell Pepper": 1176,
+    "Chile Pepper": 1286,
+    "New Mexico Green Chile": 1327,
+    "Tomato": 2361
+  }
+}

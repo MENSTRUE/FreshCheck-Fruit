@@ -1,0 +1,5 @@
+crop_type,crop_name,n,accuracy,balanced_accuracy,macro_f1_observed_classes
+0,Bell Pepper,177,0.9943502824858758,0.9970149253731343,0.996627081722999
+1,Chile Pepper,193,1.0,1.0,1.0
+2,New Mexico Green Chile,198,0.9797979797979798,0.974871794871795,0.9776556934657696
+3,Tomato,355,1.0,1.0,1.0

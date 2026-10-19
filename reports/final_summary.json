@@ -1,0 +1,141 @@
+{
+  "project": "FreshCheck Veg",
+  "portfolio_progress": "12%",
+  "validated_task": "5-class visual vegetable quality classification",
+  "model": "EfficientNet-B0",
+  "quality_classes": {
+    "0": "Damaged",
+    "1": "Dried",
+    "2": "Old",
+    "3": "Ripe",
+    "4": "Unripe"
+  },
+  "crop_types": {
+    "0": "Bell Pepper",
+    "1": "Chile Pepper",
+    "2": "New Mexico Green Chile",
+    "3": "Tomato"
+  },
+  "dataset": {
+    "mounted_source": "/kaggle/input/datasets/loliwibu/vegnet/data/train-00000-of-00001.parquet",
+    "hf_dataset": "Project-AgML/VegNet_quality_classification",
+    "hf_rows_expected": 6150,
+    "original_paper_images": 6850,
+    "license": "CC BY 4.0",
+    "audit": {
+      "mounted_rows": 6150,
+      "readable_images": 6150,
+      "unreadable_images": 0,
+      "duplicate_hash_groups": 0,
+      "conflicting_duplicate_hash_groups": 0,
+      "rows_after_exact_dedup_and_conflict_removal": 6150,
+      "split": {
+        "train": 4305,
+        "val": 922,
+        "test": 923
+      },
+      "mounted_label_counts": {
+        "Damaged": 317,
+        "Dried": 1389,
+        "Old": 2044,
+        "Ripe": 1787,
+        "Unripe": 613
+      },
+      "mounted_crop_counts": {
+        "Bell Pepper": 1176,
+        "Chile Pepper": 1286,
+        "New Mexico Green Chile": 1327,
+        "Tomato": 2361
+      }
+    }
+  },
+  "evaluation": {
+    "protocol": "internal 70/15/15 split after exact-hash audit; stratified by crop\u00d7quality when feasible",
+    "selection_metric": "validation macro-F1",
+    "test_metrics": {
+      "accuracy": 0.9945828819068255,
+      "balanced_accuracy": 0.9963634595750888,
+      "macro_f1": 0.9956506936172513,
+      "per_class": {
+        "Damaged": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 46
+        },
+        "Dried": {
+          "precision": 0.9952380952380953,
+          "recall": 1.0,
+          "f1": 0.9976133651551312,
+          "support": 209
+        },
+        "Old": {
+          "precision": 0.9902912621359223,
+          "recall": 0.996742671009772,
+          "f1": 0.9935064935064936,
+          "support": 307
+        },
+        "Ripe": {
+          "precision": 1.0,
+          "recall": 0.9850746268656716,
+          "f1": 0.9924812030075187,
+          "support": 268
+        },
+        "Unripe": {
+          "precision": 0.9893617021276596,
+          "recall": 1.0,
+          "f1": 0.9946524064171123,
+          "support": 93
+        }
+      },
+      "per_crop": [
+        {
+          "crop_type": 0,
+          "crop_name": "Bell Pepper",
+          "n": 177,
+          "accuracy": 0.9943502824858758,
+          "balanced_accuracy": 0.9970149253731343,
+          "macro_f1_observed_classes": 0.996627081722999
+        },
+        {
+          "crop_type": 1,
+          "crop_name": "Chile Pepper",
+          "n": 193,
+          "accuracy": 1.0,
+          "balanced_accuracy": 1.0,
+          "macro_f1_observed_classes": 1.0
+        },
+        {
+          "crop_type": 2,
+          "crop_name": "New Mexico Green Chile",
+          "n": 198,
+          "accuracy": 0.9797979797979798,
+          "balanced_accuracy": 0.974871794871795,
+          "macro_f1_observed_classes": 0.9776556934657696
+        },
+        {
+          "crop_type": 3,
+          "crop_name": "Tomato",
+          "n": 355,
+          "accuracy": 1.0,
+          "balanced_accuracy": 1.0,
+          "macro_f1_observed_classes": 1.0
+        }
+      ]
+    }
+  },
+  "naive_majority_baseline": {
+    "class": "Old",
+    "test_accuracy": 0.3326110509209101,
+    "test_macro_f1": 0.09983739837398374
+  },
+  "limitations": [
+    "The Hugging Face conversion has 6,150 rows, while the original paper describes 6,850 images.",
+    "The missing 700 images are reflected in the Unripe class, especially Tomato.",
+    "Crop type and quality label are statistically associated in the dataset.",
+    "The current test split is internal, not external validation.",
+    "Images come from the same source dataset and acquisition process.",
+    "The model is validated only for the four VegNet crop categories represented here.",
+    "Visual quality classification is not food-safety or shelf-life estimation."
+  ]
+}

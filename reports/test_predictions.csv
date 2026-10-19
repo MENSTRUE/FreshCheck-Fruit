@@ -1,0 +1,924 @@
+md5,label,label_name,crop_type,crop_name,pred_label,pred_label_name,correct
+4a8a3b3e8f99a0b80b5be76d16bfc88c,1,Dried,1,Chile Pepper,1,Dried,True
+2762101bafd67b21fc5de5e39640ac1e,2,Old,3,Tomato,2,Old,True
+b0e16ada8129ac6563bae81ac8134ced,3,Ripe,1,Chile Pepper,3,Ripe,True
+47b59b3d000896b4c252f5f180a9d15d,3,Ripe,3,Tomato,3,Ripe,True
+ff40349029c88dd929a16ddbb700c4b2,2,Old,3,Tomato,2,Old,True
+680092a56ece9ad6d0795d4b0045b953,3,Ripe,1,Chile Pepper,3,Ripe,True
+2ce2ee10280803755fc5e6ed9d583717,1,Dried,2,New Mexico Green Chile,1,Dried,True
+a021df7bc4d72f025906b9e69e3703e3,3,Ripe,3,Tomato,3,Ripe,True
+7f1f5a68fd56cacebae76c2a041591ab,3,Ripe,3,Tomato,3,Ripe,True
+39387404342600e8272218d8d4cc2c6b,1,Dried,1,Chile Pepper,1,Dried,True
+ce9b72ac628d95eebc012d181ba5cf1c,4,Unripe,1,Chile Pepper,4,Unripe,True
+10b84aa6f0445354a0832008d38e4424,3,Ripe,3,Tomato,3,Ripe,True
+a4f0231b3c97f09270cfb9585bf9f185,4,Unripe,1,Chile Pepper,4,Unripe,True
+0f379f37d06d48f637ad8ea4f8a94c84,2,Old,1,Chile Pepper,2,Old,True
+6ba30e88fcf47c359bbfb1fc0abaa060,1,Dried,2,New Mexico Green Chile,1,Dried,True
+35d7e6fb594fb6249823ec962cf5b75a,2,Old,3,Tomato,2,Old,True
+ecde0384ccd39a3e467ae68c3bf67216,3,Ripe,3,Tomato,3,Ripe,True
+dab16bd68dc44e1979d360bc0620218f,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+10844ef6815ada933601e80a12cc19af,2,Old,0,Bell Pepper,2,Old,True
+8189d899781c924a98f430655442384b,4,Unripe,1,Chile Pepper,4,Unripe,True
+dfe49d866867e6a6778a7d9d84e1e7d1,2,Old,3,Tomato,2,Old,True
+329f0bbfc21e43659fe6ac2014be96bc,2,Old,3,Tomato,2,Old,True
+c3b7857e80691a6f45e70bcca21f024f,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+42472a738b6f44bac13e77f35ba66e85,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+eae22120ccc0e4ba90a8178f270e34a1,3,Ripe,3,Tomato,3,Ripe,True
+dc945edfd5153e9c85d5696028d4a510,2,Old,0,Bell Pepper,2,Old,True
+3fef872cb1cf40a428cb77adeb5c0165,1,Dried,1,Chile Pepper,1,Dried,True
+e7927f8e956ab2dbf0c080653773d038,2,Old,0,Bell Pepper,2,Old,True
+65f560a4f77f7a1bb2ab96d1cbb30979,2,Old,0,Bell Pepper,2,Old,True
+7f7ebff2569ba6359f1bd1ae06530b69,3,Ripe,3,Tomato,3,Ripe,True
+4bd53e5b35405d5de4b65e8703542913,3,Ripe,1,Chile Pepper,3,Ripe,True
+2681905d5be747e33bcae0b61bbef21b,2,Old,3,Tomato,2,Old,True
+8d00fb6ba861cfbfbcfac5f708f4a563,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+8207a1787ca01a018d47a7d86a46a05f,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+223ded87342fa7722ecf0bb7c4ae6a54,3,Ripe,3,Tomato,3,Ripe,True
+e5b1328be569d679d17168fb200bc427,1,Dried,0,Bell Pepper,1,Dried,True
+6995d363cd19d5e05b0aab6866801f47,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+fe13e88b6f42451f249bb6cae51e5a2f,1,Dried,1,Chile Pepper,1,Dried,True
+c13f09a6123941a1544a456d9d52f990,2,Old,3,Tomato,2,Old,True
+cd6e545804caf33b6067971ff6713f7f,3,Ripe,3,Tomato,3,Ripe,True
+5eb8edd218e73eb06eebde6707c69e87,2,Old,2,New Mexico Green Chile,2,Old,True
+c9df741bb2e00d9a1869ddb3c7d74af0,2,Old,0,Bell Pepper,2,Old,True
+07baa5d909e13d073209a2227d0a6e69,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+51258af3442143c0ece54bb100382dbe,1,Dried,2,New Mexico Green Chile,1,Dried,True
+fc62e06e7dac6386d079d5c1e9a50f88,2,Old,2,New Mexico Green Chile,2,Old,True
+a7d4ac227ce825aece962f817b1d02f6,1,Dried,0,Bell Pepper,1,Dried,True
+1ab974c5e05b37aa4c5fa60778c0dfd8,2,Old,1,Chile Pepper,2,Old,True
+e2b56e3f4998643b5b9f835c8db68c8b,4,Unripe,1,Chile Pepper,4,Unripe,True
+eb83c44bb746ae9d1ec8ab8e421a41db,3,Ripe,0,Bell Pepper,3,Ripe,True
+2e4c154dd354388eaada671e53309b8a,2,Old,3,Tomato,2,Old,True
+a4bcc53ec813bf43337dc5efb00dced5,2,Old,3,Tomato,2,Old,True
+13a80cb24035c27d7e73ab870ae9c1e3,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+a92ce229ef87f9546f59842f7111234b,1,Dried,2,New Mexico Green Chile,1,Dried,True
+a111684a7704b2db1236f9a61eaf356d,3,Ripe,3,Tomato,3,Ripe,True
+132a7207c1f645f2b42ad14da8623823,2,Old,3,Tomato,2,Old,True
+bb7f4ab9ad15b633e8bdd69cab5ab300,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+00caccdb4f63e9ed05c0ed192094fa2e,1,Dried,0,Bell Pepper,1,Dried,True
+91a3e1ccbca34c2070650e75fb64a191,2,Old,0,Bell Pepper,2,Old,True
+78482c4b08cad2b2a508b6e1b3fc92ae,1,Dried,0,Bell Pepper,1,Dried,True
+0ed094d48664853cebce7f0f11174667,1,Dried,1,Chile Pepper,1,Dried,True
+5cfc7f50c6df493ae0ff13c12a37a952,2,Old,3,Tomato,2,Old,True
+29325c445b9369ae67bcfebb092eb433,2,Old,2,New Mexico Green Chile,2,Old,True
+70f3d6c73c1232ad5bad04f11c19d01a,1,Dried,0,Bell Pepper,1,Dried,True
+8bfec97631c9cb498f790084bfe224c2,4,Unripe,1,Chile Pepper,4,Unripe,True
+5c9794832eb7b0c2eeff17b7864352e7,3,Ripe,3,Tomato,3,Ripe,True
+36a514fb721a9b834a54b9ee73eb4cf2,2,Old,3,Tomato,2,Old,True
+5661ba0010ae0aa94679316bae58d544,1,Dried,1,Chile Pepper,1,Dried,True
+0a32ec44e0a456aca88c978946303739,1,Dried,0,Bell Pepper,1,Dried,True
+9aaf78f04362e5524ec398fcbbaf8e68,4,Unripe,3,Tomato,4,Unripe,True
+1bb84654780f51d4c8d005df9aeca8f1,1,Dried,1,Chile Pepper,1,Dried,True
+057236fe2ed2c49a639cc8eff12ed677,3,Ripe,3,Tomato,3,Ripe,True
+b0c4113df0662b88bb7ab0f7c30abf1c,0,Damaged,1,Chile Pepper,0,Damaged,True
+a9182831567842e8e19ed42f0dff485f,4,Unripe,3,Tomato,4,Unripe,True
+633dd008146a34e6da0497ec45ff4bd0,2,Old,3,Tomato,2,Old,True
+5dceacaed569aa17432a156c8f22f7c1,1,Dried,1,Chile Pepper,1,Dried,True
+eaabb4cbe6d42e923c609b034838c668,2,Old,1,Chile Pepper,2,Old,True
+efa8298550887435e2fe28d5e6ff8e8a,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+f0e2ef6ae534e472431bbdfb819028eb,2,Old,3,Tomato,2,Old,True
+2930498e53913981ed5e7ff4d7e92bf8,3,Ripe,3,Tomato,3,Ripe,True
+f2ec1322fddaa9cc221439b9ccdfbecd,3,Ripe,0,Bell Pepper,3,Ripe,True
+cb7b2d19ca396b7fe7605c5499b5f75c,3,Ripe,3,Tomato,3,Ripe,True
+fde91750f84ae05cb9d2bd8cef44d803,3,Ripe,3,Tomato,3,Ripe,True
+bdefc51992f039b2d0f05e701c9696bc,1,Dried,0,Bell Pepper,1,Dried,True
+27049a02c1b52b54dc6f252d9753fead,2,Old,3,Tomato,2,Old,True
+b4b8a7855635d076d3d2a795c871aca2,3,Ripe,3,Tomato,3,Ripe,True
+9976bcaa6ae74b34ad84fe14521e6246,2,Old,0,Bell Pepper,2,Old,True
+cfb849ccfabe79b3425ed8fe8b0f27a3,1,Dried,0,Bell Pepper,1,Dried,True
+8513b03b77dff36b9154729081531fb7,3,Ripe,3,Tomato,3,Ripe,True
+f5ec55cfa9a02fd334a7416f2ea0bd86,1,Dried,1,Chile Pepper,1,Dried,True
+f766639e6569098c1cba6b89b8caf5e4,3,Ripe,3,Tomato,3,Ripe,True
+032d69fc4e60465f56608199bd92976c,1,Dried,2,New Mexico Green Chile,1,Dried,True
+733205730b324ed35db02c41116b665f,1,Dried,1,Chile Pepper,1,Dried,True
+17c2eceb4ec1dadd41c56b489e11206a,1,Dried,0,Bell Pepper,1,Dried,True
+821ba260db8cab6e7a8fcea8fc685d52,4,Unripe,3,Tomato,4,Unripe,True
+ff280564ea910ec531cbc001f5fbfa96,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+bf900a426759ec463d24abfba50550ce,3,Ripe,3,Tomato,3,Ripe,True
+cc13171b93b4570bfe5a64082bea690f,1,Dried,2,New Mexico Green Chile,1,Dried,True
+e6ec112c36065a9ae3e78326723d5e42,2,Old,1,Chile Pepper,2,Old,True
+bd38283a0e74e2e88b5b41c65381d1be,2,Old,2,New Mexico Green Chile,2,Old,True
+d15b30bb7faf45473628ca6d357a0fb3,3,Ripe,0,Bell Pepper,3,Ripe,True
+4dd98bee4be1e3e5397f150a5a8506a1,3,Ripe,3,Tomato,3,Ripe,True
+cf5ee21d3a958ce9aad25020bd09cd9a,2,Old,3,Tomato,2,Old,True
+8a1a1a112baa0da242d1765db1b5763b,0,Damaged,1,Chile Pepper,0,Damaged,True
+a74996a730ea82e4e5fc2079cf5d52d3,2,Old,2,New Mexico Green Chile,2,Old,True
+617acc10105421bcda31b7ef07e799b7,1,Dried,1,Chile Pepper,1,Dried,True
+3fba5ee3e95cf195c21850e258e73f91,1,Dried,2,New Mexico Green Chile,1,Dried,True
+6214eec6d71eb6a288b716651c448d94,0,Damaged,1,Chile Pepper,0,Damaged,True
+fff802960882df33c851296cd054d4e1,3,Ripe,0,Bell Pepper,3,Ripe,True
+23665063b818444c8d35e2182f407619,2,Old,1,Chile Pepper,2,Old,True
+d94d2745f08374bca83bd08616b478f4,1,Dried,1,Chile Pepper,1,Dried,True
+4910b469170ae998918a632f7d8706f4,2,Old,3,Tomato,2,Old,True
+4eb9b8713677cd32d565c1fc2e5d202c,1,Dried,1,Chile Pepper,1,Dried,True
+66d539865a037fa4569f620bd7e0330d,2,Old,3,Tomato,2,Old,True
+1b00f9b9e7bc10243e330a0031192d3f,2,Old,3,Tomato,2,Old,True
+f1933f7a0ae878933054f00f1bfd632f,2,Old,0,Bell Pepper,2,Old,True
+dacf55a81e1181b2a35c45c11b56879d,3,Ripe,3,Tomato,3,Ripe,True
+0c317d5b1b95b663803b34589efde5bb,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+4f8133ad997e93c75b9754e2bec7ea6e,1,Dried,0,Bell Pepper,1,Dried,True
+5b4727cf1d3bc419601f449c292ae912,2,Old,0,Bell Pepper,2,Old,True
+7713f0cff3c1d847b4502efac31b1239,2,Old,3,Tomato,2,Old,True
+44b5bf6e1edd737f4dcda5c998d6455d,2,Old,0,Bell Pepper,2,Old,True
+4e834b8b9698c0b2149d7c225b51f422,2,Old,2,New Mexico Green Chile,2,Old,True
+d3fc7ab269e4904b20a4aaf12844c319,3,Ripe,3,Tomato,3,Ripe,True
+49d717f5ade4763196c3be841987f48a,1,Dried,1,Chile Pepper,1,Dried,True
+7dd55765b08eedd0a49be67f5587685a,1,Dried,2,New Mexico Green Chile,1,Dried,True
+a93b739355a3feb84e46647679b19c23,3,Ripe,3,Tomato,3,Ripe,True
+6abc2f1c218745b222775124a9af4db9,3,Ripe,0,Bell Pepper,3,Ripe,True
+92461643842a665235e2aee9e688023d,2,Old,1,Chile Pepper,2,Old,True
+56980feb895d1ae102edbf63524ea9ce,2,Old,2,New Mexico Green Chile,2,Old,True
+ad54241996fb43496ff2bd2b701d6a11,3,Ripe,3,Tomato,3,Ripe,True
+0fcfb21183a85856436cd4b21babae90,4,Unripe,1,Chile Pepper,4,Unripe,True
+a4ee576d15fea6dd0d75457eebef75b4,3,Ripe,0,Bell Pepper,3,Ripe,True
+bafffcf510b7cc24055db6b9508093ad,2,Old,1,Chile Pepper,2,Old,True
+5c3f3b5d9e534e07f09778145fe237a6,3,Ripe,0,Bell Pepper,3,Ripe,True
+c91f97735fb00ad19e97e3c9ff771fa1,2,Old,3,Tomato,2,Old,True
+15a1cab7166fdae048f0e33b563dbc56,2,Old,3,Tomato,2,Old,True
+e19a4e34c824d0f8784b3d08d9e3f596,4,Unripe,1,Chile Pepper,4,Unripe,True
+f3478ac97dda2c3890dbb1066af37b3c,3,Ripe,0,Bell Pepper,3,Ripe,True
+afaf3df4003b52c3811daa4003dea8a6,3,Ripe,3,Tomato,3,Ripe,True
+6b618c75f0cdac5c6cd224469027b71c,2,Old,0,Bell Pepper,2,Old,True
+635bd2e13e5b0dad3198bf806862510f,3,Ripe,1,Chile Pepper,3,Ripe,True
+441dcfbca5d2190b444e8539988219f0,2,Old,2,New Mexico Green Chile,2,Old,True
+73f5ee035b3f665f785b3675bca503de,3,Ripe,3,Tomato,3,Ripe,True
+d95572e2bf2bab2e5f21ecf9478910ba,0,Damaged,0,Bell Pepper,0,Damaged,True
+c77bc0a3a7824e381c238a19937e9fed,1,Dried,2,New Mexico Green Chile,1,Dried,True
+ab71efd5430271cfe57eecfc19819745,1,Dried,1,Chile Pepper,1,Dried,True
+44f931b28aa7bf6b0035b89c927d2607,1,Dried,1,Chile Pepper,1,Dried,True
+8c3e37d40b7ebe274b5ced1b6112e0b6,3,Ripe,3,Tomato,3,Ripe,True
+50451c999683d4daba6b9e66566a66d1,2,Old,1,Chile Pepper,2,Old,True
+5e6c18462b735630a4347ab7f6c4b23a,2,Old,3,Tomato,2,Old,True
+28037df6b75b8afce697c9377128a2bb,1,Dried,0,Bell Pepper,1,Dried,True
+dd445f5c66fba6efdcac128b1d49d1a9,1,Dried,0,Bell Pepper,1,Dried,True
+bf01e185063c44743a306f700394b78f,2,Old,2,New Mexico Green Chile,2,Old,True
+574ad117eaae70846e315c9c64cdc841,2,Old,1,Chile Pepper,2,Old,True
+5a7a71c21f368a01865f813752c81f5c,3,Ripe,3,Tomato,3,Ripe,True
+f1675a39833abe49b896b9aa07622417,2,Old,3,Tomato,2,Old,True
+e8aca0277f5e88199c05b4c56055606c,2,Old,3,Tomato,2,Old,True
+56a7ddfe6381c72b9345da1f4838bd01,3,Ripe,0,Bell Pepper,3,Ripe,True
+f7281b6324cd3c45cd3dfafb091aa280,3,Ripe,0,Bell Pepper,3,Ripe,True
+0a81f237f795b24f9a7c732b5b225e10,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+a5dcf513d77da9cfa296d3ce86f0be7c,3,Ripe,0,Bell Pepper,3,Ripe,True
+b40074d850f7e1a5059eac0cd9d45590,1,Dried,2,New Mexico Green Chile,1,Dried,True
+dcafba78d0fa8dcb9b1a4fad82eb1209,2,Old,3,Tomato,2,Old,True
+31526c21cba2abc01b40e62717311595,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+319ae6e0b082b3830dad5e3bb9f4cc1e,2,Old,3,Tomato,2,Old,True
+2d61503e76e37bf7247e5a660e0dac9e,1,Dried,0,Bell Pepper,1,Dried,True
+2e6fb0d786ed671a1f554fe2b1da2aaf,1,Dried,0,Bell Pepper,1,Dried,True
+fbcbe396d628ffe050976143a3892ffe,2,Old,3,Tomato,2,Old,True
+d69ec79473357cc5430e2945d5ed255a,3,Ripe,3,Tomato,3,Ripe,True
+367072fccdd6a13020ddbc4aafd6bd56,2,Old,3,Tomato,2,Old,True
+65f5aff49014011fd6099a54d5937eaa,3,Ripe,3,Tomato,3,Ripe,True
+cc12cd8ec28b8beed7992d1601d87be9,2,Old,0,Bell Pepper,2,Old,True
+51f3cd4761e3913400782a5a999973d8,1,Dried,1,Chile Pepper,1,Dried,True
+6dcfb60c4c526bc90710d0d7dc9edb42,2,Old,3,Tomato,2,Old,True
+1c75ee7f3fe0740e0d96b91a554b19f5,2,Old,3,Tomato,2,Old,True
+59e915985a788c539d602f53c5de2d95,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+96f45d1b3f56710051b77ccd81bc3044,2,Old,2,New Mexico Green Chile,2,Old,True
+709a9974f655af2dd5aa399e4a795b8b,1,Dried,2,New Mexico Green Chile,1,Dried,True
+fcebb53ae5691711a5e533ded96809f9,1,Dried,1,Chile Pepper,1,Dried,True
+bd66c66ad1dc2819474fd694a93eef18,3,Ripe,3,Tomato,3,Ripe,True
+8c3533afd44bb7e42ee282ae0a1d2661,3,Ripe,1,Chile Pepper,3,Ripe,True
+885f03cdc476d94e4cea2c6f5840419a,1,Dried,2,New Mexico Green Chile,1,Dried,True
+4635e37930333059141b4ab936117198,3,Ripe,3,Tomato,3,Ripe,True
+dd221f15979805fa322096cafcf85bc6,3,Ripe,3,Tomato,3,Ripe,True
+3fe90e4801cfaef376c25d36aa308e48,3,Ripe,3,Tomato,3,Ripe,True
+0e33b3f7b4051801eb07d8964abd151d,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+7f81d38d909585a68baee25333a36cd6,2,Old,3,Tomato,2,Old,True
+01e11180b2a2500e1edcc8b17b0d26c7,2,Old,3,Tomato,2,Old,True
+368b41b0596931516f5bcdda8b477289,3,Ripe,0,Bell Pepper,3,Ripe,True
+f0aa0994d4ecad8d1b93775e11068572,2,Old,0,Bell Pepper,2,Old,True
+a70b73a9472917455d947afc9a11393c,1,Dried,2,New Mexico Green Chile,1,Dried,True
+bc3b0f7274f26093ab11a203bee841df,4,Unripe,0,Bell Pepper,4,Unripe,True
+a49ea6795b6bc37db5f350ea3dcf24e5,1,Dried,2,New Mexico Green Chile,1,Dried,True
+72343376a1f05a3d0e7f23c31eef4337,3,Ripe,3,Tomato,3,Ripe,True
+e7399eaef98ea4c9d943397c9c703183,3,Ripe,0,Bell Pepper,3,Ripe,True
+57ed1ac7bd4ec6aa02fdc2f611f089ad,2,Old,2,New Mexico Green Chile,2,Old,True
+fec3fb914d1df3d5c56de6703789bf31,0,Damaged,1,Chile Pepper,0,Damaged,True
+2c344820e3e09b693313bf8822d65ab8,2,Old,3,Tomato,2,Old,True
+e9f8b70dd9cdab2af1e9e86dd19466c7,1,Dried,0,Bell Pepper,1,Dried,True
+6928e390500614a12fda30067d71cd4c,2,Old,3,Tomato,2,Old,True
+6516f01296b101ffce5ed23884807795,0,Damaged,1,Chile Pepper,0,Damaged,True
+bfad951e72a81ff114e34f5a99139597,3,Ripe,1,Chile Pepper,3,Ripe,True
+ea07d90b0c20e8a59eda0a0ab3d7ecdb,1,Dried,0,Bell Pepper,1,Dried,True
+18c61fd055c1819261ea4de938eeb3a8,2,Old,3,Tomato,2,Old,True
+e0d757cb0f8ef2dc5fa44ad27565257e,3,Ripe,3,Tomato,3,Ripe,True
+1e68bb1abc4b7f1eb769182056483dc2,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+db7a70fe21e5225a80b1015ed11e7bc3,1,Dried,1,Chile Pepper,1,Dried,True
+a86d0b2a4e2e9a29026a50b122db6b1d,2,Old,3,Tomato,2,Old,True
+b73aab9fe0bf0672d148c5059167545a,3,Ripe,3,Tomato,3,Ripe,True
+11ed3f31cb8ddfcb1dafa0ddad678970,1,Dried,2,New Mexico Green Chile,1,Dried,True
+7944833b7c23112abb75fb7c9d83eb9e,1,Dried,1,Chile Pepper,1,Dried,True
+27b0008b43e08543dfd2472d81948182,3,Ripe,1,Chile Pepper,3,Ripe,True
+e44e898b7e67b79b19bd8d7a7c6029eb,1,Dried,2,New Mexico Green Chile,1,Dried,True
+76f5ea7c01bec4f81247a429c44cd4ab,3,Ripe,3,Tomato,3,Ripe,True
+9f2b9757b06b415e4ccf8ca7bf1372fb,2,Old,3,Tomato,2,Old,True
+190fee976cb54af181fdcd9f9f47f064,3,Ripe,3,Tomato,3,Ripe,True
+04112f8299da8cc987fe2a0039d69ee4,2,Old,1,Chile Pepper,2,Old,True
+d4e189bdeef2cd6309671008e3777ead,3,Ripe,0,Bell Pepper,3,Ripe,True
+cd41fa45c6211227fbc01805fc3db846,0,Damaged,0,Bell Pepper,0,Damaged,True
+c85b4c2d31598a2135c3918227c3a49c,2,Old,3,Tomato,2,Old,True
+d39905ecb2abbe205d51ab1ae6235d76,2,Old,3,Tomato,2,Old,True
+0286179a53cdd869eefe0f211c5ef667,4,Unripe,1,Chile Pepper,4,Unripe,True
+994c3ec9043b3caca11cd8a127a085ef,3,Ripe,3,Tomato,3,Ripe,True
+fbcc13546b449b8d54e976ecfea0d0d2,2,Old,3,Tomato,2,Old,True
+e02254ddbcf1e3c2c640ded1102efeb9,1,Dried,1,Chile Pepper,1,Dried,True
+3262d5774486b371107579571574c95c,0,Damaged,1,Chile Pepper,0,Damaged,True
+e8cc6846b85745a6d078fe5758e1461e,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+be5ddf35fd2f38b5aace948939750614,1,Dried,1,Chile Pepper,1,Dried,True
+793595700df639823c3e38deb2556549,2,Old,3,Tomato,2,Old,True
+2e5537eb7bbd0f47986f15bb93380338,2,Old,3,Tomato,2,Old,True
+550c1619aa94c3f09dc7f693be43cdb6,2,Old,3,Tomato,2,Old,True
+dcb56ebea6446bcca94337f0179c5f50,1,Dried,2,New Mexico Green Chile,1,Dried,True
+1ec4466203e39e2406ad85bcb5138f46,3,Ripe,0,Bell Pepper,3,Ripe,True
+5615de6e60f8bad7373a1e797d49d076,1,Dried,1,Chile Pepper,1,Dried,True
+5744722377a7df61f49462aeecda4242,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+7006bb74544aae58dc7c66c2df3287bf,2,Old,3,Tomato,2,Old,True
+cd2176b488da9eae9c1b7c5b15ab5cb3,3,Ripe,1,Chile Pepper,3,Ripe,True
+2731813b7d4412228f8d4f1198b6baff,2,Old,3,Tomato,2,Old,True
+a23a508ac317d62d7f557423b146d32a,3,Ripe,3,Tomato,3,Ripe,True
+e14e58a0e87869a8376b057ac6f35e5e,2,Old,2,New Mexico Green Chile,2,Old,True
+a2659b2a0fd72aa085cd4a20c0b5627e,2,Old,3,Tomato,2,Old,True
+71c2402b57403204766eb2c0eb6996cc,2,Old,0,Bell Pepper,2,Old,True
+a2dd646c814c3e37ed1fa09d311aa1a6,2,Old,0,Bell Pepper,2,Old,True
+c4a46dc4340a893b3db6ce6ca8f44938,1,Dried,1,Chile Pepper,1,Dried,True
+a18a21919f6989ceda55ddc8c82ec243,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+a3c1df1542251b92f89730c055dacbb7,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+35ff6cf5baa08b0b2aacea1b9489141b,3,Ripe,1,Chile Pepper,3,Ripe,True
+8a8765b912e3e0d135051eadedb6aabe,2,Old,2,New Mexico Green Chile,2,Old,True
+2884328727a4e73bfe11c42f90ec2a45,3,Ripe,3,Tomato,3,Ripe,True
+5f5df4c31dd7d973ec92522d5e225745,2,Old,2,New Mexico Green Chile,2,Old,True
+8741fa80c80e5fa54818fc6777ccdb30,3,Ripe,3,Tomato,3,Ripe,True
+0c7bf7a795db394d1295efc882dfbef7,1,Dried,0,Bell Pepper,1,Dried,True
+ee9a37598bcff0459b11a387ee7cf76a,3,Ripe,3,Tomato,3,Ripe,True
+532dcc12f409846b37d809d829e58a13,2,Old,2,New Mexico Green Chile,2,Old,True
+115c3db42a5ba9ea8a10ca513ea79ae1,3,Ripe,0,Bell Pepper,3,Ripe,True
+1cdfeea69d03d8e64d0ea9a3cba92df7,1,Dried,0,Bell Pepper,1,Dried,True
+ba75aa43b3064745a46876abc687d333,0,Damaged,1,Chile Pepper,0,Damaged,True
+631b75b806a741ca9841a1f6b100e85e,2,Old,3,Tomato,2,Old,True
+ebfc4207c1e8528d8fe890891c9c6fc4,4,Unripe,3,Tomato,4,Unripe,True
+a53fd7c2acd3f5c98ce06859f19fbba8,3,Ripe,0,Bell Pepper,3,Ripe,True
+fc3ffa5252df48b0b48872f6332c48cd,1,Dried,1,Chile Pepper,1,Dried,True
+6009958a40a00be7bd8be591af8a98b6,3,Ripe,0,Bell Pepper,3,Ripe,True
+8938e9366d21476bf3a5fc6ac53dff7d,2,Old,3,Tomato,2,Old,True
+110c6e3a85730ac9641d82bbde78fd62,2,Old,3,Tomato,2,Old,True
+e4c1d6c3a7be87f88964b82de5725863,2,Old,3,Tomato,2,Old,True
+b8941664ee6b851f25c784d136ebc630,2,Old,0,Bell Pepper,2,Old,True
+e0883e2772a057b3392d5d25dc2dd116,3,Ripe,1,Chile Pepper,3,Ripe,True
+a72f9bb93ec9f31259b4a5810106f8ed,2,Old,3,Tomato,2,Old,True
+7ecc035dbf7f1e9d5980a203f02e999e,2,Old,3,Tomato,2,Old,True
+8905b711d82eafc0cb178c5a3cd739e3,2,Old,0,Bell Pepper,2,Old,True
+0b30f5b9cd52004db5ac9599dadea556,3,Ripe,0,Bell Pepper,3,Ripe,True
+656d6fc21a63a18572ee4fbb6fbf0f3d,1,Dried,0,Bell Pepper,1,Dried,True
+737c1e9236db41c24803d7461fb53bb3,1,Dried,2,New Mexico Green Chile,1,Dried,True
+bfa368a7cad9c488c8871c360273b848,1,Dried,2,New Mexico Green Chile,1,Dried,True
+d37f309689651a7f72b3ad813354ac3e,4,Unripe,1,Chile Pepper,4,Unripe,True
+76c4a826b864d76b03539fa1e2846453,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+210df05ee26f4bb6db0c7f14f2b8c6dd,3,Ripe,0,Bell Pepper,3,Ripe,True
+ca124e98f84dd7f46a28b8e87a79e68a,1,Dried,1,Chile Pepper,1,Dried,True
+a76aa1747faa0c909f62674efcf2efc6,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+ba5702e067967ed717d9e1654fd1608a,3,Ripe,3,Tomato,3,Ripe,True
+b5062699e3c25f37059040d81674343b,1,Dried,1,Chile Pepper,1,Dried,True
+ffb2c4c3b6c97101d35b3881ad4168f3,3,Ripe,3,Tomato,3,Ripe,True
+044a2275064c99e554e6dd50d01f59bc,2,Old,3,Tomato,2,Old,True
+5e8481fb4c48b248fdc5e9972590d040,4,Unripe,3,Tomato,4,Unripe,True
+a2140498f1445485227f7718b0f6b88c,3,Ripe,0,Bell Pepper,3,Ripe,True
+5b0a20b12a7867588233f89fb9cee8ae,2,Old,3,Tomato,2,Old,True
+e178a7b7c67fd46733ac664961092bd7,1,Dried,1,Chile Pepper,1,Dried,True
+f64784efd1ea4d1bcc39c4dbae6de686,2,Old,0,Bell Pepper,2,Old,True
+4429e6b12ea0709c0617b3273cf96ef0,3,Ripe,0,Bell Pepper,3,Ripe,True
+86c6d75d8beeec8d0ad727e26bd5b426,3,Ripe,3,Tomato,3,Ripe,True
+beaec6d5c82a31d0ebc95b323d9dfb8d,1,Dried,2,New Mexico Green Chile,1,Dried,True
+3d55d08e1a9d95434ee26b094bf7aec4,3,Ripe,1,Chile Pepper,3,Ripe,True
+c5060214b1677e83eed1060ef782d60d,3,Ripe,3,Tomato,3,Ripe,True
+4ffa03d36bf6e62dab87568eb6ed71d3,1,Dried,0,Bell Pepper,1,Dried,True
+d9bf3bec2679289c18c2b18c286c2347,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+2408b0201d8264e3890a4cf5c72c7ec2,3,Ripe,3,Tomato,3,Ripe,True
+9c0d975673db59c7ae93f8f12370a8a0,2,Old,0,Bell Pepper,2,Old,True
+d33495b2c7e03da078f3ce20cc7fa463,2,Old,3,Tomato,2,Old,True
+89ba629e9d64d189df992dc22bc97964,1,Dried,1,Chile Pepper,1,Dried,True
+c1eda3add2ec6a4bbed773e74ee8554a,1,Dried,1,Chile Pepper,1,Dried,True
+f0ab0b3325ad3cedf358b2b35bd61e18,1,Dried,2,New Mexico Green Chile,1,Dried,True
+4285ab6bf14e7618bad2579364a1e6ea,3,Ripe,3,Tomato,3,Ripe,True
+8321aece3ff8602259679eff34059b7b,2,Old,3,Tomato,2,Old,True
+905754adc0d0f18d953df7d354ed1772,2,Old,0,Bell Pepper,2,Old,True
+b950fd9086f52f12dd6bce091435b3cf,1,Dried,2,New Mexico Green Chile,1,Dried,True
+9166ba6494b3cbf9dfecb966558ff94b,1,Dried,2,New Mexico Green Chile,1,Dried,True
+f9605c16d138d2a0c95fa68089c70ed0,1,Dried,1,Chile Pepper,1,Dried,True
+733d056f5a256f4666c940df8ce94d17,4,Unripe,1,Chile Pepper,4,Unripe,True
+99fdd8c4fc7c56d3c18903df024cd530,3,Ripe,0,Bell Pepper,3,Ripe,True
+6572bd1d92a2c0df05a3c9e70787ae5a,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+5a4670708d36cd5d628b61002f417430,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+a5d9d50a2b70471b3354bc59e09c36cd,2,Old,3,Tomato,2,Old,True
+e7f1d050f704023d1d76fc89621e3099,4,Unripe,0,Bell Pepper,4,Unripe,True
+845dd30eb6f48625bc54f03a72581f15,3,Ripe,3,Tomato,3,Ripe,True
+2417641df4a2ae4f7934a8bfc10e3500,3,Ripe,1,Chile Pepper,3,Ripe,True
+c04f57b8c414d70e963a6384010f7258,1,Dried,2,New Mexico Green Chile,1,Dried,True
+d0aa1cd3a1e794c220d2e86065a4205a,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+109b9fec946090c5932e099db6133103,2,Old,3,Tomato,2,Old,True
+d448d8ed553f366c65679f4e5c45ebf7,3,Ripe,0,Bell Pepper,3,Ripe,True
+dd5e6c7d566f1a72803e02c59e19eba0,3,Ripe,1,Chile Pepper,3,Ripe,True
+6eb0d0d19a0904af26f7f9cdaba50670,3,Ripe,2,New Mexico Green Chile,2,Old,False
+2373b4f79fe6fab29a07d97a8037fe08,2,Old,1,Chile Pepper,2,Old,True
+37c3828fd0eaba7284b72e0b8fd5b14e,1,Dried,2,New Mexico Green Chile,1,Dried,True
+ece54f78a26f473b213611be83113329,1,Dried,1,Chile Pepper,1,Dried,True
+6d8813a853bae66e9b36dc3a59e6bf7a,1,Dried,2,New Mexico Green Chile,1,Dried,True
+62053c91d204848473a33f700cb4e230,2,Old,3,Tomato,2,Old,True
+12e43099c822867bcdf503683ce65352,2,Old,3,Tomato,2,Old,True
+e1a9df721d61ba130ce9f68506fa48c6,2,Old,2,New Mexico Green Chile,2,Old,True
+133d01742332185b96c4f8c738df11d4,3,Ripe,3,Tomato,3,Ripe,True
+453e089c994a808cc62378e066d1e7f2,2,Old,0,Bell Pepper,2,Old,True
+e08d2eab081539f6a13b9bc333611b25,4,Unripe,3,Tomato,4,Unripe,True
+1d934e2297cc3ecb63bc45329b6ceeab,1,Dried,2,New Mexico Green Chile,1,Dried,True
+2df58d8dddd62fb5e4d3fa1c7db3251d,1,Dried,0,Bell Pepper,1,Dried,True
+33632d3b848104575484c8a30a942bac,4,Unripe,3,Tomato,4,Unripe,True
+042f8b4b3c911d0233c99c0d7a0ac69c,1,Dried,1,Chile Pepper,1,Dried,True
+79e52bfbaea81e82113cf68755b46a37,3,Ripe,0,Bell Pepper,3,Ripe,True
+14ec697ea8bda47737d08fcf7ff45031,2,Old,3,Tomato,2,Old,True
+9f9d0af81e2cc246b6501699bbeef0c6,4,Unripe,3,Tomato,4,Unripe,True
+4efc4ab14f537edde1679b2a9adc588e,2,Old,0,Bell Pepper,2,Old,True
+1e697e47a7f1cfd3828c12830287a303,3,Ripe,3,Tomato,3,Ripe,True
+56a044dea67063941e9ab00eaab8b9b5,2,Old,2,New Mexico Green Chile,2,Old,True
+7fca1d7024c9d7ae373f5d84d41ea5ad,3,Ripe,0,Bell Pepper,3,Ripe,True
+0b0443b0dc1693b03cd78134306ca168,1,Dried,2,New Mexico Green Chile,1,Dried,True
+174058763701f2855b2ee10242f9fa82,3,Ripe,0,Bell Pepper,3,Ripe,True
+b71ce31d0be7b01a54f6987cbe62c07e,3,Ripe,3,Tomato,3,Ripe,True
+f373ff433a3c1229d7fd19dc7ac593b2,3,Ripe,3,Tomato,3,Ripe,True
+d4475656a76d5fcb08a29fbb9fb5dee9,3,Ripe,3,Tomato,3,Ripe,True
+752b7c7e049d3756c39de35a080e19f8,0,Damaged,1,Chile Pepper,0,Damaged,True
+89e7b875bbc183fae102893db90bef92,2,Old,3,Tomato,2,Old,True
+4b0e89a1fc917b58d5ce654380c96cbf,2,Old,0,Bell Pepper,2,Old,True
+978ecbbbbba55ccde3b7ea8b7524b73f,2,Old,3,Tomato,2,Old,True
+d0eff816cfa7c4794feb88f3ffcdbe52,1,Dried,0,Bell Pepper,1,Dried,True
+ddf3790c4759a44e8d64dcaee531bf50,4,Unripe,1,Chile Pepper,4,Unripe,True
+1a64ca2f83ec3a363d80512df491d894,2,Old,1,Chile Pepper,2,Old,True
+b51ab9f052944d33e94ebe4c06b88b10,3,Ripe,0,Bell Pepper,3,Ripe,True
+778cb08731f0e243d733569f6b39ad90,2,Old,0,Bell Pepper,2,Old,True
+1844a2be3c69a92e7dab2c0febe4b26b,2,Old,3,Tomato,2,Old,True
+6ed639f73a0933f46a6fc078eb76422a,2,Old,3,Tomato,2,Old,True
+8253ed4be4ae56914aec27d06eb90a52,3,Ripe,0,Bell Pepper,3,Ripe,True
+7d91e8f97e8b7992b349391a8b650b3e,1,Dried,0,Bell Pepper,1,Dried,True
+f40439a9685daf91ee1e451b053d0903,3,Ripe,3,Tomato,3,Ripe,True
+f63dd1a00fe6d1cb091be956f758a3ea,4,Unripe,1,Chile Pepper,4,Unripe,True
+4cbe68698ea67ad8eee29a8cf67d9315,1,Dried,0,Bell Pepper,1,Dried,True
+7a0915d022249cb34b95376ce9a0271a,3,Ripe,3,Tomato,3,Ripe,True
+a33d91b876c5cafaf06bc80d78facc51,4,Unripe,3,Tomato,4,Unripe,True
+b3b74a3f07e1526a1035f96e10e04513,3,Ripe,1,Chile Pepper,3,Ripe,True
+d888f672e8bbf85484326497bb467a38,4,Unripe,0,Bell Pepper,4,Unripe,True
+fea12895d35680f80b504819288fca31,2,Old,3,Tomato,2,Old,True
+81293ee4b467352e177d1257f4ef9fae,0,Damaged,1,Chile Pepper,0,Damaged,True
+c4aefa78e647ab5013980c668a0403b7,2,Old,1,Chile Pepper,2,Old,True
+820961c35735920e839225a460785ee4,3,Ripe,3,Tomato,3,Ripe,True
+7735c673bf410f0e776455a76d5b817c,2,Old,3,Tomato,2,Old,True
+9bedc8410ae9c38956ce66f927a69f1a,3,Ripe,3,Tomato,3,Ripe,True
+84e12d05f384f4eba2ac145e137173f4,1,Dried,0,Bell Pepper,1,Dried,True
+df414e27cbc22413516edf23e93bb459,3,Ripe,0,Bell Pepper,3,Ripe,True
+77f6d63e55b08d1030b437e5a73495ac,2,Old,3,Tomato,2,Old,True
+6b2663cb6457bb979212f16949d3d007,2,Old,3,Tomato,2,Old,True
+6dc0aa10cc18b97a0a0d80c8b5d08c57,2,Old,0,Bell Pepper,2,Old,True
+652c594de723a278cefa9975958f78c6,1,Dried,2,New Mexico Green Chile,1,Dried,True
+6d231e1dde85dccc782ad3f750bdc028,3,Ripe,0,Bell Pepper,3,Ripe,True
+9d92bae7b12df2ab5fcc93a8f8435e53,2,Old,3,Tomato,2,Old,True
+9dee9347a17aa990cb421b39c23ae2a8,3,Ripe,3,Tomato,3,Ripe,True
+8c0f87b629a3bfa84a0e33ce98bb0174,3,Ripe,3,Tomato,3,Ripe,True
+717b563348b62bbaea3264744eb3169c,2,Old,3,Tomato,2,Old,True
+a1bda4103aeebd9a955179194de330e6,1,Dried,1,Chile Pepper,1,Dried,True
+7c827faed83e752552a50ad34a7c2fba,2,Old,3,Tomato,2,Old,True
+16c783074cce50a6fc4415e7c905b93d,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+4f16869dbfb6bdf6a22a687da8bdaff6,0,Damaged,3,Tomato,0,Damaged,True
+5201c39612bc235043f368c50f9fd9f6,3,Ripe,3,Tomato,3,Ripe,True
+7916eb9399089223a2e2d552ba70b3a6,4,Unripe,1,Chile Pepper,4,Unripe,True
+ca66b7c144c867c036fee7786e58ea6f,1,Dried,2,New Mexico Green Chile,1,Dried,True
+bf56d38c39b173f68e9264c4a57cae7b,2,Old,1,Chile Pepper,2,Old,True
+5a8b483e95bfe9748b92a82d3cad5433,3,Ripe,1,Chile Pepper,3,Ripe,True
+bceb73b42952faafae8df3187bd04e17,1,Dried,1,Chile Pepper,1,Dried,True
+4542dabc2136642cd864d2675229c427,2,Old,3,Tomato,2,Old,True
+ecb03da891371f039c18746b06a20ceb,2,Old,0,Bell Pepper,2,Old,True
+6760aeda3fc0be5c2499acb6c3264d57,1,Dried,2,New Mexico Green Chile,1,Dried,True
+6fde962b112cb759561969c599a6bce2,2,Old,1,Chile Pepper,2,Old,True
+0e65bb1a0b8bef8db5eff48abae7a8fe,4,Unripe,1,Chile Pepper,4,Unripe,True
+300d566f84db2ed8fb94eaab680d23f8,2,Old,3,Tomato,2,Old,True
+e00a5d8f268c851072924d5ba297377a,3,Ripe,0,Bell Pepper,3,Ripe,True
+af2c8214878d8b39a74a4ecd576fe7c7,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+7c5e8e4a49616c2bc33ce9fc498c822d,0,Damaged,0,Bell Pepper,0,Damaged,True
+e01e50cb8d836ec8069eb1d6fefc12fc,3,Ripe,0,Bell Pepper,3,Ripe,True
+d346140e3f909ab1e9187550c18af5ec,3,Ripe,0,Bell Pepper,3,Ripe,True
+c99db1bf72b1841d6da83f051aa96952,1,Dried,2,New Mexico Green Chile,1,Dried,True
+bb0a121c0455097d073e60c3ab6b8fc5,2,Old,3,Tomato,2,Old,True
+867464d4a87d8cfdf5f602a0cfc1797a,3,Ripe,3,Tomato,3,Ripe,True
+65254c860a58d731891a21998ffe7440,2,Old,2,New Mexico Green Chile,2,Old,True
+010da7e8de5201bad7f40b36708855db,2,Old,3,Tomato,2,Old,True
+20103af45dfa9d49a576695b8f7628ac,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+dcd862bdf109c4daa5806131df69636d,3,Ripe,0,Bell Pepper,3,Ripe,True
+7f27b168af6891018f526db8b5529299,2,Old,0,Bell Pepper,2,Old,True
+022d1b0fafec12f7702c7b13a729a695,2,Old,3,Tomato,2,Old,True
+965603a9f6f1cfd327d4319dfe3c9ca8,2,Old,3,Tomato,2,Old,True
+71183f8b88b7585a689a9e29206227a7,1,Dried,1,Chile Pepper,1,Dried,True
+42fa260404724bbf56c06bb07b930c18,3,Ripe,1,Chile Pepper,3,Ripe,True
+fde977e81eb36184214d5d6db607fc42,2,Old,2,New Mexico Green Chile,2,Old,True
+942f9bc0b8f9d6456f0883d33fc39762,1,Dried,1,Chile Pepper,1,Dried,True
+d4d771e65e53db8a1d2407570f0fda45,3,Ripe,0,Bell Pepper,3,Ripe,True
+3ab0373eb583ee340afb20e85011ceb9,2,Old,1,Chile Pepper,2,Old,True
+5ffc13c20faf3edef408a995ff762420,1,Dried,1,Chile Pepper,1,Dried,True
+4ac3252988a48ea647b1311bc0980725,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+2a28d61b7c952c1a9d52c0f828c84318,4,Unripe,3,Tomato,4,Unripe,True
+643a63272b809bd116ccbafc2e4e2eb4,3,Ripe,3,Tomato,3,Ripe,True
+ada47f329ece57556c244e295cace999,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+5ea6b258255c0cfe38a9a8d30cfbe5dd,2,Old,3,Tomato,2,Old,True
+937af70a014ca3da1f155ebaf9256b8d,1,Dried,1,Chile Pepper,1,Dried,True
+e2e1ec4c11780d70d2f6569b5026e0b7,3,Ripe,0,Bell Pepper,3,Ripe,True
+a820af06a303a7dab3908216aeb6b983,2,Old,0,Bell Pepper,2,Old,True
+80c1db4d264234377f10c151ee007f42,3,Ripe,3,Tomato,3,Ripe,True
+d69d64d7b2b33494622bea81f35af6f8,1,Dried,2,New Mexico Green Chile,1,Dried,True
+135119e6a4b939f2d166ff78daf9e47b,1,Dried,1,Chile Pepper,1,Dried,True
+a7f6a58e438477f3c8469ef955471e26,2,Old,2,New Mexico Green Chile,2,Old,True
+641e7caedc599d9dbe9f230aa4ec8356,3,Ripe,3,Tomato,3,Ripe,True
+c2738022f31ebba9629a109b07befa99,1,Dried,2,New Mexico Green Chile,1,Dried,True
+95bf966c5cd4a9f9d6ce74b096fa311e,3,Ripe,3,Tomato,3,Ripe,True
+aefe2942ebbafe19690a3439b8b076e1,3,Ripe,3,Tomato,3,Ripe,True
+2c90426854d7425f8ab2559e345c74fa,3,Ripe,3,Tomato,3,Ripe,True
+1e74e9bcba3fdabbb80366a478d8057e,3,Ripe,0,Bell Pepper,3,Ripe,True
+7e26eb1c651dbf7446ec3cc097e3cf62,2,Old,3,Tomato,2,Old,True
+a6b1b5835833088a40e6b076c14a3db0,3,Ripe,1,Chile Pepper,3,Ripe,True
+cef304d45da5cb15b298c3a3b8b84d94,4,Unripe,0,Bell Pepper,4,Unripe,True
+568ee68907b966be3789ea3db2a84843,3,Ripe,3,Tomato,3,Ripe,True
+4239b2fe2b1eb2da91870b655478206b,1,Dried,1,Chile Pepper,1,Dried,True
+00582f3845a3f20508585bb1c54c2f27,3,Ripe,3,Tomato,3,Ripe,True
+0ec510515c69dc7ffe87a35f4930d6be,3,Ripe,0,Bell Pepper,3,Ripe,True
+4285aa0a2c6c41022b00de236a448b9f,2,Old,3,Tomato,2,Old,True
+ec268c429b069eab2852a9c382d2c8e2,3,Ripe,3,Tomato,3,Ripe,True
+24a3004507ca37c883c920fef1614edc,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+87c4837851e8eff42f2579d42eef4404,3,Ripe,0,Bell Pepper,3,Ripe,True
+bef15021a00be9572a5f97d383a22786,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+d92001cf9f38c6085a3fac265c1db99b,3,Ripe,3,Tomato,3,Ripe,True
+5d05b084135f3a26651b68baa41ed693,3,Ripe,0,Bell Pepper,3,Ripe,True
+eded93690d6de858c374100eafdf624a,2,Old,3,Tomato,2,Old,True
+709a8803dc9cade777a413b7d4c242d8,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+7eec6f8220b69a517bbd82c1691b54d9,2,Old,3,Tomato,2,Old,True
+34727b0d6f18574ab8f4fad44caf0b64,1,Dried,1,Chile Pepper,1,Dried,True
+01ecd153500694d4cb3f7bbe989f8698,1,Dried,2,New Mexico Green Chile,1,Dried,True
+f480f129524f7cd17fccc3d977c62a4c,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+50a60dd40bfd39a6c7a90df955196879,2,Old,3,Tomato,2,Old,True
+3cf7bdb37759f9016c8f909bb13edf14,2,Old,3,Tomato,2,Old,True
+88cea05b09fa838e07e50a15891e84ae,1,Dried,2,New Mexico Green Chile,1,Dried,True
+26b27f3f624f4670409ebecf511d9366,3,Ripe,3,Tomato,3,Ripe,True
+ee69289d30df12189fef0d44cf089d83,3,Ripe,3,Tomato,3,Ripe,True
+bef361bc8eab75b1d78da4423db6901e,1,Dried,0,Bell Pepper,1,Dried,True
+3860211f95a09edd589a22fecdc478b5,3,Ripe,0,Bell Pepper,3,Ripe,True
+efbacd5b60604775b7dd55a7dd077d01,3,Ripe,0,Bell Pepper,3,Ripe,True
+3a2b15198edce48a5ec262547f6db934,2,Old,3,Tomato,2,Old,True
+dad6faff1390e6114cc1d072878007d4,1,Dried,0,Bell Pepper,1,Dried,True
+70b6ae509410a3e655ac4c092e7ecce8,1,Dried,0,Bell Pepper,1,Dried,True
+45eacb61c702aee8188ad404b6f17f8d,2,Old,3,Tomato,2,Old,True
+48a8b1f964ce2b6be4f7f5a8f499577f,3,Ripe,1,Chile Pepper,3,Ripe,True
+2c5dfdb1524608cb128de73603cb5170,2,Old,3,Tomato,2,Old,True
+2c0cc633c79c769542f401a87097cad4,3,Ripe,0,Bell Pepper,3,Ripe,True
+c2644f3a5285a831d0c4964d05e316c8,1,Dried,1,Chile Pepper,1,Dried,True
+b4ae3e4c19ead77257ae4fda424201ae,2,Old,2,New Mexico Green Chile,2,Old,True
+a72b0703d16a5dc0577fb2eee7daeeda,1,Dried,2,New Mexico Green Chile,1,Dried,True
+5e3c76d9a9dc5cd8ee38b080fe36b798,1,Dried,0,Bell Pepper,1,Dried,True
+11b0ec2458b9cd6562fd64ac7f2f50ed,2,Old,2,New Mexico Green Chile,2,Old,True
+df1306d2a3d5659edada137d2b677b4e,0,Damaged,1,Chile Pepper,0,Damaged,True
+f4d3042deafc14b29b1e4aa4dcc91ece,3,Ripe,3,Tomato,3,Ripe,True
+8851c69322fc1048da0ab1e4350ce355,2,Old,0,Bell Pepper,2,Old,True
+3a5dfe65ab57d09d57cca706eb8e6022,2,Old,3,Tomato,2,Old,True
+1d7eca8e1a36f52bba5a955fc3404745,2,Old,3,Tomato,2,Old,True
+cfa628acbb0cef7558618a3642faaf6d,2,Old,2,New Mexico Green Chile,2,Old,True
+90e27c3be18fad8547389127708b7198,1,Dried,0,Bell Pepper,1,Dried,True
+4d5c67d4fdbf87cff08f68b978579338,3,Ripe,3,Tomato,3,Ripe,True
+b3cf0d62c4af9572859a2971c0fc012a,3,Ripe,3,Tomato,3,Ripe,True
+1297b4b863fb5296479ffc834832e7db,1,Dried,0,Bell Pepper,1,Dried,True
+8a78c1c32ef4f1ad35de8be199465167,3,Ripe,3,Tomato,3,Ripe,True
+0504ad8c212d4ccb70c5cf45b215b748,2,Old,3,Tomato,2,Old,True
+8b7f1b68ef3f564874e9e6a2819cb2c1,1,Dried,1,Chile Pepper,1,Dried,True
+8c904402cc82b6993ce066f8c3a244b4,3,Ripe,3,Tomato,3,Ripe,True
+c1a48e14f4bcfe10aa405f6f5f3803fd,2,Old,1,Chile Pepper,2,Old,True
+33d785e459a8d2da479676636df1893e,4,Unripe,1,Chile Pepper,4,Unripe,True
+e77aece81a86d67a68d186f2770f6f7e,3,Ripe,0,Bell Pepper,3,Ripe,True
+55405582fc50372e15d9e4e76809ae1c,3,Ripe,1,Chile Pepper,3,Ripe,True
+bdeeef950e3a8e65f982025837d7e2f2,0,Damaged,1,Chile Pepper,0,Damaged,True
+d4e1416a7a85ef17e68f11a9f32c441a,1,Dried,2,New Mexico Green Chile,1,Dried,True
+0f1caff70c7221e37d83de13cf40038f,1,Dried,1,Chile Pepper,1,Dried,True
+e5c53e2f4454aa43eb44861df9227ff1,3,Ripe,1,Chile Pepper,3,Ripe,True
+bc0b1b6b100f26aad10233f760503a99,3,Ripe,3,Tomato,3,Ripe,True
+fb1b0602b89178d011653789b90ac814,2,Old,0,Bell Pepper,2,Old,True
+aa7667af1af0b8ec2096d413439fa641,2,Old,3,Tomato,2,Old,True
+2b6bb42da0353ed58cc299a9d849ae2a,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+ab1f6ac29e95762c7e89579515f5fde9,1,Dried,2,New Mexico Green Chile,1,Dried,True
+ecf80400e26133149068d7907e1a5ed7,3,Ripe,3,Tomato,3,Ripe,True
+6888e3ddd18f710ec13f9c2547054b3a,3,Ripe,0,Bell Pepper,3,Ripe,True
+bdcb0264d88181632dcc68f2af29f15f,2,Old,3,Tomato,2,Old,True
+06da048b3ceb504231d65161430417ce,4,Unripe,1,Chile Pepper,4,Unripe,True
+72e17fc726995edb9ad2e284ec2f0433,4,Unripe,3,Tomato,4,Unripe,True
+afb8ba1b19ce5d3f8b451d2dc752bbcc,4,Unripe,3,Tomato,4,Unripe,True
+5e98eb6d05f89f526a3069070c8922ac,3,Ripe,3,Tomato,3,Ripe,True
+5d720e00b7108b421d50366e899e4561,2,Old,1,Chile Pepper,2,Old,True
+2dbebecd2f7e49358d36ace55efb8a39,2,Old,3,Tomato,2,Old,True
+642ee31e2ee5fd166b734a49e2e3d535,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+e0347233ae9d5edc06716751d30891f9,2,Old,0,Bell Pepper,2,Old,True
+ed83cc84bd3c7d7d5de8dbb05725cf85,3,Ripe,3,Tomato,3,Ripe,True
+8b1eed8d0446e056ec50ad270fceef79,1,Dried,2,New Mexico Green Chile,1,Dried,True
+49de07d1399dcf645e382a04dc029ca8,4,Unripe,1,Chile Pepper,4,Unripe,True
+b0793192303f1c14e1d5730fd28f75ca,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+dfe4a1d7211c0cfa6ab745f485a55310,2,Old,2,New Mexico Green Chile,2,Old,True
+e0ccfb19b85d3b3b6b77ebca79b783d4,2,Old,3,Tomato,2,Old,True
+7d5c4d591d5be6b495cc9458a51b51f0,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+b82d6380552131af2377bfa8d6aa0475,3,Ripe,3,Tomato,3,Ripe,True
+a2c2730a9620654504d9ccd19a4d8541,1,Dried,1,Chile Pepper,1,Dried,True
+00702095d45e0fe48e075b55c043ce98,2,Old,0,Bell Pepper,2,Old,True
+fdef2a73da9e66ad66d8b3b7132ef485,4,Unripe,1,Chile Pepper,4,Unripe,True
+3d37b833f62ae4d5545473b083052f7a,4,Unripe,1,Chile Pepper,4,Unripe,True
+cf2bff2c4f2364db1ddd36d4dfc3d9ab,2,Old,3,Tomato,2,Old,True
+ccd9d303da28dd268e27b2ec6fe81fb3,0,Damaged,1,Chile Pepper,0,Damaged,True
+a6970d34a54ca91ea7da68ca3226bcb6,3,Ripe,3,Tomato,3,Ripe,True
+d41514e14fa3e7fb6ab07dbba937bfa3,2,Old,0,Bell Pepper,2,Old,True
+bef98c771664088a79cc36ffd8d389e4,3,Ripe,3,Tomato,3,Ripe,True
+28dc346c462447ffea1c5e532c77e222,4,Unripe,1,Chile Pepper,4,Unripe,True
+9be0a04d10ebc7e6d56a7159498aca62,1,Dried,2,New Mexico Green Chile,1,Dried,True
+23c0097ee175e8cbde7a1d41632f6d9c,3,Ripe,0,Bell Pepper,3,Ripe,True
+e4f0e18e927adbf684f37c7e49b88491,0,Damaged,1,Chile Pepper,0,Damaged,True
+920ab268fea7e5f19861b218da9cb155,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+0226c79028da7ee90d5719e91720a363,3,Ripe,3,Tomato,3,Ripe,True
+b1353cfa1e074dd4a1989ed19e4cafb8,1,Dried,1,Chile Pepper,1,Dried,True
+7c5b4d7fa1e9c395f0ad8ed91fe41f97,1,Dried,2,New Mexico Green Chile,1,Dried,True
+fefb405e169664aa470d52d7c788dbf9,2,Old,3,Tomato,2,Old,True
+0c36d44ff2cd9425e70b601c14efce5e,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+ec92fc5a458adcec57d4d71150211558,4,Unripe,0,Bell Pepper,4,Unripe,True
+1d027dc4c1c055a6f51028f7dbb5715e,1,Dried,2,New Mexico Green Chile,1,Dried,True
+316fbedecc828b915dbb1790eafde1d6,3,Ripe,1,Chile Pepper,3,Ripe,True
+94100e8ee636b0abf9ab935c0517e621,3,Ripe,3,Tomato,3,Ripe,True
+1d2aa1213605634efa952368e540e5b1,1,Dried,2,New Mexico Green Chile,1,Dried,True
+592af57cbdb8c8ed111bf5ec92059f1a,4,Unripe,1,Chile Pepper,4,Unripe,True
+2ef45908837239bf3f285e1481096611,2,Old,1,Chile Pepper,2,Old,True
+6fc4baf8c5b2e26e922ba6bff29ad91f,2,Old,3,Tomato,2,Old,True
+71f74e7aead3633036c94883d0a62e43,2,Old,0,Bell Pepper,2,Old,True
+7648912904a1ea4696a411067d16c522,2,Old,2,New Mexico Green Chile,2,Old,True
+f25b33baf4844b8ce807b00f0d247201,2,Old,2,New Mexico Green Chile,2,Old,True
+5fd0af5cd4bfac41d7ee2dab7fd973ba,2,Old,3,Tomato,2,Old,True
+16c1a033512b221e25f9763161b949a9,3,Ripe,1,Chile Pepper,3,Ripe,True
+0eed5cf06a588c6504a750e0830b1a27,3,Ripe,3,Tomato,3,Ripe,True
+f117771ca840b3bba9dea75436831777,3,Ripe,3,Tomato,3,Ripe,True
+eb0589900d5a8e2ea7b14abd2afec8bd,1,Dried,1,Chile Pepper,1,Dried,True
+a4d5e54fb83217da3450969753b7e561,2,Old,1,Chile Pepper,2,Old,True
+7538e9334a28fd7ed98b86a72c919a09,3,Ripe,1,Chile Pepper,3,Ripe,True
+ed51d8c2cc47b3cf240d0c985f755063,2,Old,2,New Mexico Green Chile,2,Old,True
+fe7ab2fb6556e4ac260b04fb12f032cf,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+7df81e7f49da77d0cd600a9b25756e43,3,Ripe,3,Tomato,3,Ripe,True
+5af2008d453e53a0ee63b787b4521ec4,1,Dried,0,Bell Pepper,1,Dried,True
+4fc313de69d2f43d5431f00f85731871,2,Old,3,Tomato,2,Old,True
+941396b3ec42dc14dd613202e11b947b,1,Dried,2,New Mexico Green Chile,1,Dried,True
+4e1d1bd0bc3f4911039003e923c2333b,2,Old,0,Bell Pepper,2,Old,True
+89b0f180d6043160680fcd66f1c04bb6,2,Old,3,Tomato,2,Old,True
+0d94103f4b6316e60fb73be2b29ee7cd,2,Old,3,Tomato,2,Old,True
+5677db0b696db61c7227c2f35ea87a33,1,Dried,1,Chile Pepper,1,Dried,True
+dce67a6e4153ab0e5e0c516cd23e742d,3,Ripe,0,Bell Pepper,3,Ripe,True
+dc3ba06a4b4e0e119145325d0a5e05cf,3,Ripe,3,Tomato,3,Ripe,True
+e06a2ec8ff6adf1272c7840e6e710950,3,Ripe,3,Tomato,3,Ripe,True
+7f23de68c970c509500e549e0bfb5ca2,2,Old,3,Tomato,2,Old,True
+2516f1ed0f6c0f988ca4d4e670306ce7,1,Dried,1,Chile Pepper,1,Dried,True
+5a5ec8a9ab9949d61f177903f9d4bc20,3,Ripe,1,Chile Pepper,3,Ripe,True
+b1d06dd0af24c4de7226243ad65da710,3,Ripe,3,Tomato,3,Ripe,True
+a183e3b67791373f3f22abee5ba423c1,2,Old,0,Bell Pepper,2,Old,True
+4bb219c23355a3a676492d26a52bd4d8,3,Ripe,3,Tomato,3,Ripe,True
+5343558558da5406542446aca18cb4a7,3,Ripe,1,Chile Pepper,3,Ripe,True
+a12b3b55e80897346554b554b72218b5,2,Old,3,Tomato,2,Old,True
+004e50e8a3e6f55faddc907609a9f498,2,Old,1,Chile Pepper,2,Old,True
+e5cfe0b7712bcf748090aafe47a8d4e4,1,Dried,2,New Mexico Green Chile,1,Dried,True
+db5c3e6cb15ecfa8f306c3a391708f89,1,Dried,2,New Mexico Green Chile,1,Dried,True
+0910ec6c08d9f0b40244ed749477b964,3,Ripe,0,Bell Pepper,3,Ripe,True
+0dca978b84d649cac2943a263d4e7262,1,Dried,2,New Mexico Green Chile,1,Dried,True
+622c9f0b5760c62fa61d868f99bfcf78,2,Old,3,Tomato,2,Old,True
+2668b3bf98b176db8fd23a8675a1a13b,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+8c1736c3e5903c122ac621abf60e0cfb,2,Old,0,Bell Pepper,2,Old,True
+c9f9425de330b99b981af14bd8657bb5,2,Old,0,Bell Pepper,2,Old,True
+e241ac57a7d82cfedbbe597a0a73eb70,3,Ripe,3,Tomato,3,Ripe,True
+d5d7a004ab2257f0e88d7070fa7b9d45,4,Unripe,0,Bell Pepper,4,Unripe,True
+440b44db9cc899cf12e898546a233b45,1,Dried,1,Chile Pepper,1,Dried,True
+616713e239f2abead4f7f466c779bdaa,1,Dried,1,Chile Pepper,1,Dried,True
+d351b9fb0dff065c49ef91955af3d685,3,Ripe,3,Tomato,3,Ripe,True
+00c0498a6017cb0646f432bb9e37fb60,2,Old,0,Bell Pepper,2,Old,True
+cd09e9906c25790dd52ad43313544c8b,3,Ripe,3,Tomato,3,Ripe,True
+daecb344ada11c22dab79dab53f33334,3,Ripe,3,Tomato,3,Ripe,True
+1a8f27bc49964c06d6e14c7495cf02ee,1,Dried,2,New Mexico Green Chile,1,Dried,True
+77ff19435771b5a49a2da0959394db0f,1,Dried,1,Chile Pepper,1,Dried,True
+04f02115039dbea91935de653471fbe3,3,Ripe,3,Tomato,3,Ripe,True
+11eea54e818f4a0e4b24b7c8f2e32678,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+8c5980d028c5f4ed761effb4ba5ed2d9,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+d1543b137c66a2470f177fe76b56d5cf,4,Unripe,3,Tomato,4,Unripe,True
+0bad8f0469e5ca15755f4d4d2cbc86b5,2,Old,2,New Mexico Green Chile,2,Old,True
+de32ff2af758b245d61fbe0df0673ea9,3,Ripe,3,Tomato,3,Ripe,True
+f4192f3d9b5083ca7b624ba6916fdffa,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+06fd34876075eaad695b53a329e14d8a,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+9a3696ec06c32e2bd98c18a1f21048ad,3,Ripe,3,Tomato,3,Ripe,True
+d876486986634498e5620761d656a173,2,Old,3,Tomato,2,Old,True
+d54d6ca516fae2d626e7f6b3520076b8,1,Dried,2,New Mexico Green Chile,1,Dried,True
+5f90b66b26ebeb49b4f32e91d9fbb1bd,1,Dried,2,New Mexico Green Chile,1,Dried,True
+a2e2263225b4bc4ec5e5d6e239824537,1,Dried,1,Chile Pepper,1,Dried,True
+d1f6303281d5a3a65898a8162ef994f5,1,Dried,1,Chile Pepper,1,Dried,True
+0f37e4434346373f11b8cac348e68584,3,Ripe,0,Bell Pepper,3,Ripe,True
+80749411c0db6afb0469caee70280a45,2,Old,3,Tomato,2,Old,True
+016b1da1dbf1821fee1c7b2928d44943,1,Dried,1,Chile Pepper,1,Dried,True
+c42a813fff6ec0fab3a271199a8f9a45,1,Dried,2,New Mexico Green Chile,1,Dried,True
+8ebafe2ba21e8a293fdb4aac92645afd,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+ce495f6ca8df0e7529a7a12ba9d6876a,1,Dried,2,New Mexico Green Chile,1,Dried,True
+5a32992761133f2cc70ad292d76c8199,1,Dried,2,New Mexico Green Chile,1,Dried,True
+6b72322d2c17f8417cc871d3c03870f3,4,Unripe,3,Tomato,4,Unripe,True
+3422fc761d1442595aa33e60b9f8ab51,3,Ripe,3,Tomato,3,Ripe,True
+1644995076fa6ad45eb02027ac912654,2,Old,3,Tomato,2,Old,True
+6cbdd160adc85bc92d29cc2feff6f263,3,Ripe,3,Tomato,3,Ripe,True
+e737566bfa83b901c0bd655471caea62,2,Old,3,Tomato,2,Old,True
+db81119b79fdf82f3a0598348030e949,3,Ripe,0,Bell Pepper,3,Ripe,True
+54395cacd64371baf0275675a60e8529,1,Dried,2,New Mexico Green Chile,1,Dried,True
+7102b531b9409a74e4f89c288109913b,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+acc07ba087e794d301dc6f6f5ecdf72e,2,Old,3,Tomato,2,Old,True
+13d3cf9be706181c54650bdff6943189,0,Damaged,1,Chile Pepper,0,Damaged,True
+a55e7bb1ace21eb0fe2a2575ceadff68,0,Damaged,0,Bell Pepper,0,Damaged,True
+867160b1ccb896efdce4eb458aa82a32,3,Ripe,0,Bell Pepper,3,Ripe,True
+107489ccb15019037580aeec4ef4b597,1,Dried,1,Chile Pepper,1,Dried,True
+29043dc2cbf833ac4d51aab41689b26e,2,Old,3,Tomato,2,Old,True
+76564657a01e8e7d5dff9c7a1a9cbd6e,1,Dried,0,Bell Pepper,1,Dried,True
+85d342628a08313dd0f2f8a597875a3f,2,Old,3,Tomato,2,Old,True
+1f93cc86cf80485959cfb5bae09f02f6,1,Dried,1,Chile Pepper,1,Dried,True
+4d7c8a387c03b1d9fd1b80d8553dd0bf,2,Old,2,New Mexico Green Chile,2,Old,True
+74c094c0defc6984dda81442f97a6957,2,Old,3,Tomato,2,Old,True
+dab1f29eaae30407063c5e56d12671cb,1,Dried,1,Chile Pepper,1,Dried,True
+acbb1e80ad2a9253e70fb1914379d7d6,3,Ripe,3,Tomato,3,Ripe,True
+5dcc18d7a22824ca818bb8bcfbe69122,2,Old,3,Tomato,2,Old,True
+61da840cf665a3054c3c0f898e010945,1,Dried,1,Chile Pepper,1,Dried,True
+13616c31e0f5c83059dc226fcbd36768,4,Unripe,0,Bell Pepper,4,Unripe,True
+e859c7c7bc8058e677d366aa4689f204,1,Dried,1,Chile Pepper,1,Dried,True
+23798ebbd8057bd57675ad2b7d16f45b,2,Old,0,Bell Pepper,2,Old,True
+6712bb9385e191f40ee61e2b7bed6e27,4,Unripe,3,Tomato,4,Unripe,True
+0f8dddc8dc2890ef4d072cea46f84c3f,3,Ripe,1,Chile Pepper,3,Ripe,True
+14525492b021aa6ade2ec7d8565ef0cc,2,Old,3,Tomato,2,Old,True
+56faa1cd563c2e105f6d1763fcf5d6eb,1,Dried,0,Bell Pepper,1,Dried,True
+b19c38e58d5f7f46d40fd6fe8a0fae31,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+ebfbc016d69c7833390d10211450ae68,1,Dried,2,New Mexico Green Chile,1,Dried,True
+d40561c2f3fa2e1d83e69865d43aae41,0,Damaged,1,Chile Pepper,0,Damaged,True
+bdd02ec9f48554584c05bd1c7490208a,1,Dried,1,Chile Pepper,1,Dried,True
+ba8bc132c5c566582c2e81ba8dc0f9c9,3,Ripe,0,Bell Pepper,3,Ripe,True
+cb580299f20ce90aa3f99473a028928e,3,Ripe,3,Tomato,3,Ripe,True
+bd50e6a201762339ee791b3e59d53efb,2,Old,3,Tomato,2,Old,True
+af50e7cf02591c08f3169d5bf7d3c2ce,3,Ripe,3,Tomato,3,Ripe,True
+814d7e0ad7f4c28eba26a2556bb5949d,2,Old,3,Tomato,2,Old,True
+1ec461e53281c7b791ebf5dea268315f,1,Dried,1,Chile Pepper,1,Dried,True
+7369e94fed7dead9a3b50ffd5b661668,1,Dried,2,New Mexico Green Chile,1,Dried,True
+9916a3d4636952ae609a4feb1d9a7cef,3,Ripe,3,Tomato,3,Ripe,True
+252c3ed841a488a440f0f4d149fa07b2,1,Dried,2,New Mexico Green Chile,1,Dried,True
+7e5cee04ce9732a870cbbba7900f812c,1,Dried,2,New Mexico Green Chile,1,Dried,True
+e2e77dd463a5b22d8f34bdb8ea7cfcc8,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+a380ab17a3a021499afe4537ade35254,0,Damaged,3,Tomato,0,Damaged,True
+898f577776cb37d43b567e1f6c9bfd21,1,Dried,1,Chile Pepper,1,Dried,True
+14790b9f529c70fee8aaf9cdd9dd716d,2,Old,3,Tomato,2,Old,True
+4c32debdd24b30d22522016f2328de6c,1,Dried,2,New Mexico Green Chile,1,Dried,True
+07f1e5ea2af126a7c7a0b87f7074be12,2,Old,3,Tomato,2,Old,True
+0725acf43d94614eb65299a71aab8d58,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+33f0e80b4595a5e6e823d127d0a50d82,1,Dried,1,Chile Pepper,1,Dried,True
+8d52518cc2f832654892b507accaca13,2,Old,2,New Mexico Green Chile,2,Old,True
+318414c04546b1d140161b1b7bbcda66,2,Old,3,Tomato,2,Old,True
+6c3c57ce35be43a5ae72fc537aa61ed9,2,Old,3,Tomato,2,Old,True
+8283709c2c1e84030ce09b7f146ae034,2,Old,3,Tomato,2,Old,True
+34b882b3f5d6531dfcfdb2620fe5ddd3,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+4f1d009a2b944528d5abd3682958ff56,3,Ripe,3,Tomato,3,Ripe,True
+af39dfe92b0548a960cb866f903e9bd2,3,Ripe,3,Tomato,3,Ripe,True
+3e5aad3b86cb6b06d97711f1164c1450,4,Unripe,1,Chile Pepper,4,Unripe,True
+320dcbd708ba02cf3970f5d0a2746c34,3,Ripe,3,Tomato,3,Ripe,True
+d9833a444b652452b043ba1189f1f723,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+b471e67ad709c3eb184ac90c98d646a7,2,Old,3,Tomato,2,Old,True
+146c5bd91c1259785d171f78ab995f16,1,Dried,1,Chile Pepper,1,Dried,True
+ad8f45e678db108747df225f28033b33,3,Ripe,3,Tomato,3,Ripe,True
+862637f9ffcc4c6fc74963787fedbef4,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+649f04fa328dc083e932a1124b253b5e,2,Old,0,Bell Pepper,2,Old,True
+e6ff69f7199baa2328137a7349b86ff1,2,Old,3,Tomato,2,Old,True
+df601beb64b5915aa418d87b5c0a399e,3,Ripe,0,Bell Pepper,3,Ripe,True
+5f6d45aa8cc35d6b7d581745e9ee87b5,1,Dried,1,Chile Pepper,1,Dried,True
+c13ad7db0d752f53dc916ea0e2b882a1,2,Old,3,Tomato,2,Old,True
+75cdc1d57f42ba108636cfe782f1ccf5,3,Ripe,3,Tomato,3,Ripe,True
+c8a20367eecceedae9a944e3595495ef,3,Ripe,0,Bell Pepper,3,Ripe,True
+2a14da8d8860491f4a86cbff8130495d,2,Old,3,Tomato,2,Old,True
+54980d8d1664121752827ae4debabbb0,2,Old,3,Tomato,2,Old,True
+401652f6b293d0b931774aa1da643bd0,1,Dried,0,Bell Pepper,1,Dried,True
+c6d5c8e959f66802111be061a299ec83,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+562e5473d17ae5f911175f2587dcc6b0,2,Old,3,Tomato,2,Old,True
+3278bb3802a6593a27e65444ebc55bc4,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+68b3896d86cbcc052cdc0c8a7dbdf2ec,4,Unripe,1,Chile Pepper,4,Unripe,True
+b8f9a48ba955c8bb4aa5cb8f68d3256c,3,Ripe,3,Tomato,3,Ripe,True
+1cd00ff3a92eb3a4334e761a4ac1277f,2,Old,3,Tomato,2,Old,True
+e3d66fb37a6bb12298612989e5666669,3,Ripe,3,Tomato,3,Ripe,True
+20a0738370a6ea9c70e689e552485604,2,Old,3,Tomato,2,Old,True
+890125bd4bf64db2bcec6ad3870753eb,2,Old,3,Tomato,2,Old,True
+e364c80f051b7a42e96d5b03adaac59b,3,Ripe,2,New Mexico Green Chile,2,Old,False
+015ec2063a549614e5dfbf12f3f2a1a0,3,Ripe,0,Bell Pepper,3,Ripe,True
+e0157c18556e7ada770b3bf620516757,3,Ripe,3,Tomato,3,Ripe,True
+cc27a13acd4d7853b2bede64fad02224,2,Old,2,New Mexico Green Chile,2,Old,True
+1e226d473669aac00982562f86021ca6,1,Dried,0,Bell Pepper,1,Dried,True
+20101a22d37dbd8eb8c3f660928ea466,2,Old,3,Tomato,2,Old,True
+076dc0b462af8aa79037cbb4152ea655,1,Dried,1,Chile Pepper,1,Dried,True
+a9256c1609cdad348d7b544c144673b4,1,Dried,1,Chile Pepper,1,Dried,True
+d194d43162f825e06b86de5d4e86a965,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+e09773a0da14055da03b207f17809015,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+7c3e02950149cc964de22a0fd442d2d6,2,Old,3,Tomato,2,Old,True
+2e446ae16639c518b294a1b8e3344cef,1,Dried,2,New Mexico Green Chile,1,Dried,True
+2cd54fd1dd2bb759dccde1b40be3175c,2,Old,2,New Mexico Green Chile,2,Old,True
+291c427de9c030cd1b8164d092381bec,2,Old,3,Tomato,2,Old,True
+ef37bd7ae66587e66b4b8828b4394c3f,1,Dried,1,Chile Pepper,1,Dried,True
+746fa11d2fa0bfac4cdd0dac31af703e,3,Ripe,0,Bell Pepper,3,Ripe,True
+0c6ad31cd89b7791c4735bb9f7a63931,1,Dried,1,Chile Pepper,1,Dried,True
+1bb52e02a13f2188ca4d4239de694536,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+02c88989b1147892d4241ae7d539fa64,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+2f580629d33c3af959724badf931d9a8,2,Old,0,Bell Pepper,2,Old,True
+9d08d6ae70ec2c8444b845b9fab5b589,2,Old,3,Tomato,2,Old,True
+57304536fb9678d8de59b7cc67f3f217,2,Old,2,New Mexico Green Chile,2,Old,True
+0ae4fe73e864241e7621358888f91a35,3,Ripe,0,Bell Pepper,3,Ripe,True
+c28e534fae95aadf193aae445088abdd,2,Old,1,Chile Pepper,2,Old,True
+6984ca79c094c09459092ee39bce426e,2,Old,2,New Mexico Green Chile,2,Old,True
+31fae5f7942d383d1dde250872a31ebd,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+a0c5ab12b5b16afb66ea727a950dd2fe,1,Dried,0,Bell Pepper,1,Dried,True
+14466bfe627adcc05973fc94556a4f7f,2,Old,3,Tomato,2,Old,True
+268b41dc6321ebb5cf5ac37d95b20ac9,1,Dried,1,Chile Pepper,1,Dried,True
+9d783fbdacba8b507e82904eba504931,2,Old,2,New Mexico Green Chile,1,Dried,False
+7c2c3d511895a8e134ba059025f468db,2,Old,1,Chile Pepper,2,Old,True
+bdb2ba471625c2187463663b64cfb01c,2,Old,3,Tomato,2,Old,True
+a52c7baec0153d3888e1aef10086a12d,1,Dried,2,New Mexico Green Chile,1,Dried,True
+d71c0662de4fe95672fcaa1e5c4b0f5a,3,Ripe,3,Tomato,3,Ripe,True
+12a62cc51178a066d29e66315e1a820a,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+e62bd06c0d62adeacc3f0bfa188dab8b,2,Old,3,Tomato,2,Old,True
+30a3f20b0a37ffe408559762c74ced75,1,Dried,2,New Mexico Green Chile,1,Dried,True
+25be1abc4a880bc55587aa0ac038210a,3,Ripe,3,Tomato,3,Ripe,True
+7da8dcd1cd8c8266d07ca058f9987a96,1,Dried,1,Chile Pepper,1,Dried,True
+445fc19d8c4892e5bec6987a80517300,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+2438a329f55e3f2e2f2e7e065d168a88,2,Old,0,Bell Pepper,2,Old,True
+de197f1d823cce0ec04997d319b23d8e,1,Dried,0,Bell Pepper,1,Dried,True
+7ce671e7f955075efb62019af252d8a8,4,Unripe,3,Tomato,4,Unripe,True
+6efd36ab16a0351f1810c1d7bceb39d5,3,Ripe,3,Tomato,3,Ripe,True
+6d4da971de53a54f7a1f69aa710ba9f8,1,Dried,2,New Mexico Green Chile,1,Dried,True
+bf96842fc9967307c448d0f6de72d891,1,Dried,0,Bell Pepper,1,Dried,True
+fcedf290988ade7b4c644a4bafe9fe72,2,Old,0,Bell Pepper,2,Old,True
+b38cef65cdb414851afb6a83c9a9f4c8,2,Old,3,Tomato,2,Old,True
+6c8afec3d182fca2d290e41a1d2950bc,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+383a5a2ae263715bdbde8ea3ab4cfc30,2,Old,3,Tomato,2,Old,True
+1e1709651fa3bedf1f244a4bee8715a8,2,Old,3,Tomato,2,Old,True
+36be90c10af4b357044a05799528bd15,2,Old,3,Tomato,2,Old,True
+33480d4b2338523d80995b821c095d6a,2,Old,0,Bell Pepper,2,Old,True
+5addf154c7217679810514644a531871,1,Dried,1,Chile Pepper,1,Dried,True
+3105a02c261fe9670ee47b076233b0e4,2,Old,3,Tomato,2,Old,True
+605c03d98355c915ecefaeb8fef153a4,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+6ee868f01e71415eb19bd3ed90d3845a,3,Ripe,3,Tomato,3,Ripe,True
+231f5363292c6e77b3f9bf205edfa2d7,1,Dried,1,Chile Pepper,1,Dried,True
+84943624e0bf9a0e43f4c2e486e36998,2,Old,0,Bell Pepper,2,Old,True
+37665b919cad111ceb1ecdd546ab0276,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+116929ee3d34ea7751aa3583e5ac23c9,3,Ripe,0,Bell Pepper,3,Ripe,True
+40c977b483d225aa6e7da8cb68970049,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+da4506fc579bfb9e7e07f59610d7ef84,1,Dried,1,Chile Pepper,1,Dried,True
+34775a57cf37b2abb85ab7d872a9226a,1,Dried,2,New Mexico Green Chile,1,Dried,True
+981cf500e1503089e4602341bf4dfffe,1,Dried,0,Bell Pepper,1,Dried,True
+32e4996e7351356687cd6a7408041ee5,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+af1f808d8caa8014bbd88a7faaff96dc,1,Dried,1,Chile Pepper,1,Dried,True
+f85917ac948a6e79cb67d25ce8d7ca2a,4,Unripe,3,Tomato,4,Unripe,True
+67e7084c51c10ce19f73364882eb485d,2,Old,3,Tomato,2,Old,True
+b9b83af05fd2b7ebd22a40c0b46327ca,2,Old,3,Tomato,2,Old,True
+cd2cca23b908dcc13271f4f413413115,0,Damaged,3,Tomato,0,Damaged,True
+416880656ba6e79b4360bc32c64531f4,2,Old,1,Chile Pepper,2,Old,True
+b630b340560860e82a1d322cd9b114e9,4,Unripe,1,Chile Pepper,4,Unripe,True
+5360c621b544bde38c0c12c981eb55c1,2,Old,3,Tomato,2,Old,True
+df655bb2509c4e571157efb4fd7a8589,2,Old,0,Bell Pepper,2,Old,True
+7c009ddde40d7bdf2e34bab348a839ee,2,Old,3,Tomato,2,Old,True
+cc0c9757cfaf23b0b0decbd1af82085b,2,Old,3,Tomato,2,Old,True
+e0c25d63c8eca256ab353d24a73cbfce,1,Dried,2,New Mexico Green Chile,1,Dried,True
+10255f90489f887ee732f98e1a647d22,3,Ripe,0,Bell Pepper,3,Ripe,True
+7c983617e9e2fc313e0bccbcae3bd07b,2,Old,0,Bell Pepper,2,Old,True
+56dd5a8b8e2f7acac663957984a6fb12,2,Old,0,Bell Pepper,2,Old,True
+e7a88896f2ecee95ca9e1a81d2492f50,2,Old,0,Bell Pepper,2,Old,True
+bdfdb2edc5fc6c0b8d0e4ed360b3850e,3,Ripe,0,Bell Pepper,3,Ripe,True
+f37aefed29638f8fe63b19e4c3e9db3f,1,Dried,0,Bell Pepper,1,Dried,True
+752073326e697172ad6bf20dd6e2af27,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+097e35acea4386fba51a2a669182e1ec,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+2befeab93d99f2a0003864f5df0d4048,2,Old,3,Tomato,2,Old,True
+f0cb87164df11d89c30c9abb6b229991,3,Ripe,3,Tomato,3,Ripe,True
+8cd87059c787bbdd1dac019063a6665b,1,Dried,1,Chile Pepper,1,Dried,True
+6cc3c1be82ca4662215391d5578e3134,2,Old,2,New Mexico Green Chile,2,Old,True
+0afb3e9d6074ad9f3e720a0061d7e614,2,Old,3,Tomato,2,Old,True
+d59e5c2ff39ce582c71b2f4cac8fd1dd,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+97663a786443183f23b9d11762a2e6f8,4,Unripe,0,Bell Pepper,4,Unripe,True
+210e7196e57327aa41d40814238e795f,3,Ripe,3,Tomato,3,Ripe,True
+648bd0c992bf9731d5310089c5781cdc,1,Dried,2,New Mexico Green Chile,1,Dried,True
+b9fa2825fccccc3f5c7cc2e8aeb60f6d,2,Old,3,Tomato,2,Old,True
+64f2fb89868c4c8384096792a4a2b3e8,1,Dried,0,Bell Pepper,1,Dried,True
+80439b5ab2bcadf3765faccc62db5408,1,Dried,0,Bell Pepper,1,Dried,True
+c4e5665a1f33346e1a008a42457acacb,4,Unripe,1,Chile Pepper,4,Unripe,True
+713085040f1c3ef58d8511e7c6eca94e,3,Ripe,3,Tomato,3,Ripe,True
+ae6a6afece1f2e695f9e6fcd7478c180,2,Old,3,Tomato,2,Old,True
+36954e73b6c50db3494774c5c976d35a,3,Ripe,3,Tomato,3,Ripe,True
+4688e93f520c0fab1db2562f24df33d4,2,Old,3,Tomato,2,Old,True
+be166024a8927e705b5b65f9093d6a17,2,Old,1,Chile Pepper,2,Old,True
+df4f8e4dc25840f776b7da90485b0158,2,Old,3,Tomato,2,Old,True
+e7dd9afd60b445ea65636606c8ac61dc,3,Ripe,1,Chile Pepper,3,Ripe,True
+ca9949b2723ed7366401e772dee2c761,2,Old,2,New Mexico Green Chile,2,Old,True
+5e8d81175dda054e27c6dc94f4095fcb,2,Old,3,Tomato,2,Old,True
+0d982a5207d779e7bfd4137ba416c125,2,Old,3,Tomato,2,Old,True
+f4259f754356aac6f8b1f92d870fbe2c,0,Damaged,1,Chile Pepper,0,Damaged,True
+9b7ac69aacf2632d88ba54ffdb93653e,3,Ripe,0,Bell Pepper,3,Ripe,True
+20498e662fcd2245e56c8f7b560be647,1,Dried,2,New Mexico Green Chile,1,Dried,True
+c259446e5580c588194099fa282d1ea1,1,Dried,2,New Mexico Green Chile,1,Dried,True
+9c913956f31e14ed1aadaa7b57077a3e,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+97535f0a7fc2b1bb6fd04a6cb4d4f053,0,Damaged,2,New Mexico Green Chile,0,Damaged,True
+3ee78457b31db3bb246b31f815f0ec62,2,Old,1,Chile Pepper,2,Old,True
+dc896b196dfd5d9037c0da3e4129d78e,2,Old,3,Tomato,2,Old,True
+d7b6d75b8b1c7c74787e5e81055ead7d,2,Old,3,Tomato,2,Old,True
+36320497e7ea6208dd6d4842837959f7,3,Ripe,0,Bell Pepper,2,Old,False
+8fc1c9ece8b9c2a13f2350e48e25b0f4,4,Unripe,3,Tomato,4,Unripe,True
+738bd440ce722c1dccfcf47d54d917d6,2,Old,0,Bell Pepper,2,Old,True
+26e4dabfe6c6115e5ff32896e8fcc119,1,Dried,0,Bell Pepper,1,Dried,True
+a96396e9b29200ce4f8bece7c4dadba3,2,Old,1,Chile Pepper,2,Old,True
+7f0dfa651824a8c85683ea0600cb1283,3,Ripe,0,Bell Pepper,3,Ripe,True
+9b6d3741ce2dd3544debe11139287419,3,Ripe,3,Tomato,3,Ripe,True
+ed6496f64d26623343107356209fb8b3,3,Ripe,0,Bell Pepper,3,Ripe,True
+4b758a3ec7a6a6c28c129d5d03063076,2,Old,2,New Mexico Green Chile,2,Old,True
+b5602c99048a396d59e20efcea5ab929,2,Old,3,Tomato,2,Old,True
+dfa2839637a67d4896ad86d7ddf28963,4,Unripe,3,Tomato,4,Unripe,True
+5147d2f8f04a759eb584f3583fe4c7fd,1,Dried,1,Chile Pepper,1,Dried,True
+7bfe65b34cb204a66bd16d1638b4be80,2,Old,3,Tomato,2,Old,True
+04293150a0fc1bb8cc3d79f267c46f7d,2,Old,2,New Mexico Green Chile,2,Old,True
+fb0b80862d3835eac2cf9a2353b9e043,3,Ripe,0,Bell Pepper,3,Ripe,True
+b2d3dfda64e682163a49cfbc2b32fcb2,1,Dried,1,Chile Pepper,1,Dried,True
+d987a6b74dd8292167b50f65a1c6c0b0,3,Ripe,3,Tomato,3,Ripe,True
+f9dc565fbde770db816e7f734712a58a,2,Old,3,Tomato,2,Old,True
+fd1e430a7f0304991d074f4599516aa3,1,Dried,2,New Mexico Green Chile,1,Dried,True
+609aca6334ccfa32e9ff61cd57e1d427,2,Old,3,Tomato,2,Old,True
+f9b914843634a1727448298ea68b9cb6,2,Old,0,Bell Pepper,2,Old,True
+eb4c4637f04de31bc1a2fe8788035cf3,3,Ripe,2,New Mexico Green Chile,4,Unripe,False
+6a61c9ccd055814c0c40381d35af80ac,2,Old,3,Tomato,2,Old,True
+39ebffac54e43fbd1d5e1eb2a9db9d8c,1,Dried,1,Chile Pepper,1,Dried,True
+dc4cc995e34b2459548e8ff47eb705a4,3,Ripe,2,New Mexico Green Chile,3,Ripe,True
+8ea1832e99362d0fca3656a704727cd3,1,Dried,2,New Mexico Green Chile,1,Dried,True
+3ba954bee3e1c0869c2a61d73ac4699a,1,Dried,1,Chile Pepper,1,Dried,True
+22160aabe897426e49f4fa65e4cadc21,3,Ripe,3,Tomato,3,Ripe,True
+2bf930468be765674597cd85d0b84d57,3,Ripe,3,Tomato,3,Ripe,True
+e3b73fe6718ce6d65f788ed645d11069,4,Unripe,3,Tomato,4,Unripe,True
+7f64b3d6ff3048ec9148753334fda6f7,2,Old,3,Tomato,2,Old,True
+7b0d17a10cc131467c1f33ac87b5e0b7,1,Dried,1,Chile Pepper,1,Dried,True
+ce79a3083b3792910b77f0db78b77a48,3,Ripe,3,Tomato,3,Ripe,True
+f4c62e4a68f415756ff7335c44519dcf,3,Ripe,3,Tomato,3,Ripe,True
+8fdf4814b9ba008f7e105aadf1917679,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+964ab0ad8d6f30a578adb8a8d4946751,4,Unripe,3,Tomato,4,Unripe,True
+d0dea2466d8e6f9fde14cac82e13206b,1,Dried,1,Chile Pepper,1,Dried,True
+5639b291b35aefe306ae63223a2a4beb,2,Old,3,Tomato,2,Old,True
+d68cb2c59439e55737e38fa9da6b9388,4,Unripe,3,Tomato,4,Unripe,True
+a57af79fdfd6ccaee86cd498bfff1b23,3,Ripe,3,Tomato,3,Ripe,True
+bd137a2d33be2c5c0c722cf43eb07e9f,1,Dried,2,New Mexico Green Chile,1,Dried,True
+2aba730489ffd50c2c1966dcbdfd21da,3,Ripe,3,Tomato,3,Ripe,True
+75f4d208d6c6b73e7c4d62814ca7c370,2,Old,3,Tomato,2,Old,True
+24670cb81faa36806fc67a6ad863ae25,1,Dried,1,Chile Pepper,1,Dried,True
+72feb6b00025c190ce8438f8340d6eef,3,Ripe,3,Tomato,3,Ripe,True
+e833dab981f9ce1a69fd947f91f39da0,3,Ripe,0,Bell Pepper,3,Ripe,True
+f212983d6ce2dfbb049762691d9f129f,1,Dried,1,Chile Pepper,1,Dried,True
+41553300db8eab53984d46f5e40269e3,4,Unripe,1,Chile Pepper,4,Unripe,True
+b5222faa1e51a911482ab47bee4058da,1,Dried,2,New Mexico Green Chile,1,Dried,True
+9a33ed938fb49a48d4bcfa6ddc1d0cdc,2,Old,3,Tomato,2,Old,True
+242c7387e0741840b9ea035e148e8390,3,Ripe,3,Tomato,3,Ripe,True
+5a849f7e565299a65a55d5cede48b4a4,1,Dried,2,New Mexico Green Chile,1,Dried,True
+b8f1f945c10821c9e1e0f26028d5f458,2,Old,3,Tomato,2,Old,True
+a4f150228f9c10cad4adbf39494103ff,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+2b391105cfa6452b214b197bcffda041,2,Old,3,Tomato,2,Old,True
+a42df7565bdb9b11ff955ff3c41996c5,2,Old,3,Tomato,2,Old,True
+fcb639f59f5bd1d9a8b51c69291a0748,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+8dde02b694155620c06b3337f1fa1ef0,0,Damaged,3,Tomato,0,Damaged,True
+9755a9ab61c6cad04a4c15defa241966,0,Damaged,1,Chile Pepper,0,Damaged,True
+c5e8cc113b9c211548ffdea43226f4fc,4,Unripe,1,Chile Pepper,4,Unripe,True
+53df616c6dda56651b93051fb0753c1a,3,Ripe,3,Tomato,3,Ripe,True
+92af236c656b8d482adf71c9297e9798,2,Old,3,Tomato,2,Old,True
+d99ac9ee99d42883766550eebf418db2,0,Damaged,1,Chile Pepper,0,Damaged,True
+75b0553eb00da233a9c0c385a57ab8db,3,Ripe,3,Tomato,3,Ripe,True
+07f406e1d365e62945817434287c5564,3,Ripe,3,Tomato,3,Ripe,True
+803ebade15134c818cfb3f82a3c11264,2,Old,3,Tomato,2,Old,True
+ee4e6dc34645e2254daa8eac9f823b1c,2,Old,1,Chile Pepper,2,Old,True
+568d2d3ebebb164ba62c8fbe9a2107c3,3,Ripe,3,Tomato,3,Ripe,True
+ed95ced7b0dafce03f7fc5a680dac5b1,2,Old,3,Tomato,2,Old,True
+85b902891d440871cb8ad8349178bf4f,2,Old,1,Chile Pepper,2,Old,True
+85d1dc3134e2503d7e5035e5ec777df4,2,Old,3,Tomato,2,Old,True
+1da8c407ff7a2385f5acec0344c29164,2,Old,3,Tomato,2,Old,True
+a8ff3ab8d16fe4e3a41b9acda8eabcfe,1,Dried,1,Chile Pepper,1,Dried,True
+cab994cc1cb69c4720d17d0eacc905b7,2,Old,3,Tomato,2,Old,True
+caabc7260ec7eef4cde896f06316e2f3,2,Old,3,Tomato,2,Old,True
+eb2510317ee506e9137c76e66d82bfae,4,Unripe,1,Chile Pepper,4,Unripe,True
+93c7dc2ac6958b5f0208480e5fa8ffbb,1,Dried,1,Chile Pepper,1,Dried,True
+c876a2110b88f736cbc98294028167cd,2,Old,3,Tomato,2,Old,True
+1efa0747c2cdf111b09d14a2b729a50c,2,Old,0,Bell Pepper,2,Old,True
+0284e40f70d7a1e54217b361c0193f75,1,Dried,0,Bell Pepper,1,Dried,True
+cab4666c7fa9cf47e8f9eede0f66fb8d,3,Ripe,3,Tomato,3,Ripe,True
+1f11b873057dac5a8f58155e5fe01080,4,Unripe,1,Chile Pepper,4,Unripe,True
+a6d5146c972a613d10efd079ed640c37,2,Old,3,Tomato,2,Old,True
+c98262424b174275567b5577f9d078c1,2,Old,1,Chile Pepper,2,Old,True
+a06b2dbff309328f12963606ccbf05e5,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+70ff6fb132160c5423f7b5e07a97df07,1,Dried,2,New Mexico Green Chile,1,Dried,True
+481d13fd55fe03e5d6599a5076d429dc,2,Old,3,Tomato,2,Old,True
+b3dfa47e3e5514820b4d521065ad3e79,4,Unripe,2,New Mexico Green Chile,4,Unripe,True
+19bf098bf76a3b6f1e549294a900f815,3,Ripe,3,Tomato,3,Ripe,True
+c24dc7b1c4ff501db8184d613242632d,3,Ripe,3,Tomato,3,Ripe,True
+977a5f9cd469e207a114cdb212010496,2,Old,3,Tomato,2,Old,True
+70a8c99976675de19d26baadf867ad29,2,Old,3,Tomato,2,Old,True
+6ca3bfa05100dd4487ecf3c30de0a8c4,1,Dried,1,Chile Pepper,1,Dried,True
+fc3c28478982e9737cbe0a131548fd71,3,Ripe,3,Tomato,3,Ripe,True
+1bffcade4bcab2774e8c035f33ed8a1a,2,Old,3,Tomato,2,Old,True
+4cec3b7f3908525b3e2433249d69e95b,2,Old,3,Tomato,2,Old,True
